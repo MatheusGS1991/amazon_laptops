@@ -1,0 +1,25 @@
+# Caderno digital para Ciência de Dados
+!pip install jupyterlab
+
+# Álgebra linear, matrizes...
+!pip install numpy
+
+# Manipulação de dados em tabela
+!pip install pandas
+
+# Pacotes de Relatorório Automatizado para Análise de Dados
+!pip install dataprep
+!pip install pandas-profiling
+
+# Visualização gráfica e plotagens - simples/"personalizadas"
+!pip install matplotlib
+!pip install seaborn
+
+# Modelagem Algorítma Aprendizado de Máquinas
+!pip install sklearn
+
+# Manipulação de Imagens
+!pip install Pillow
+
+# Interfaces Gráficas do Usuário
+!pip install customtkinter

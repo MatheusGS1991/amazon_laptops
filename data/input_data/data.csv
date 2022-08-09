@@ -1,0 +1,1303 @@
+Company;TypeName;Ram;Weight;Touchscreen;Price;Ips;ppi;Cpu_brand;HDD;SSD;Gpu_brand;os
+Apple;Ultrabook;8;1.37;0;5491;1;226.983004681061;Intel Core i5;0;128;Intel;Mac
+Apple;Ultrabook;8;1.34;0;3684;0;127.677940133096;Intel Core i5;0;0;Intel;Mac
+HP;Notebook;8;1.86;0;2357;0;141.211998082198;Intel Core i5;0;256;Intel;Others/No OS/Linux
+Apple;Ultrabook;16;1.83;0;10400;1;220.534623866258;Intel Core i7;0;512;AMD;Mac
+Apple;Ultrabook;8;1.37;0;7392;1;226.983004681061;Intel Core i5;0;256;Intel;Mac
+Acer;Notebook;4;2.1;0;1639;0;100.454669861136;AMD Processor;500;0;AMD;Windows
+Apple;Ultrabook;16;2.04;0;8771;1;220.534623866258;Intel Core i7;0;0;Intel;Mac
+Apple;Ultrabook;8;1.34;0;4749;0;127.677940133096;Intel Core i5;0;0;Intel;Mac
+Asus;Ultrabook;16;1.3;0;6127;0;157.350512148735;Intel Core i7;0;512;Nvidia;Windows
+Acer;Ultrabook;8;1.6;0;3156;1;157.350512148735;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;4;1.86;0;1614;0;100.454669861136;Intel Core i5;500;0;Intel;Others/No OS/Linux
+HP;Notebook;4;1.86;0;1414;0;141.211998082198;Intel Core i3;500;0;Intel;Others/No OS/Linux
+Apple;Ultrabook;16;1.83;0;10000;1;220.534623866258;Intel Core i7;0;256;AMD;Mac
+Dell;Notebook;4;2.2;0;2045;0;141.211998082198;Intel Core i3;0;256;AMD;Windows
+Apple;Ultrabook;8;0.92;0;5174;1;226.415547169358;Other Intel Processor;0;256;Intel;Mac
+Apple;Ultrabook;8;1.37;0;6224;1;226.983004681061;Intel Core i5;0;256;Intel;Mac
+Dell;Notebook;8;2.2;0;3053;0;141.211998082198;Intel Core i7;0;256;AMD;Windows
+Apple;Ultrabook;16;1.83;0;11713;1;220.534623866258;Intel Core i7;0;512;AMD;Mac
+Lenovo;Notebook;8;2.2;0;2045;0;141.211998082198;Intel Core i3;1000;0;Nvidia;Others/No OS/Linux
+Dell;Ultrabook;8;1.22;1;4012;1;165.6321180513;Intel Core i5;0;128;Intel;Windows
+Asus;Netbook;2;0.98;0;786;0;135.094211192562;Other Intel Processor;0;0;Intel;Windows
+Lenovo;Gaming;8;2.5;0;4094;1;141.211998082198;Intel Core i5;0;128;Nvidia;Windows
+HP;Notebook;4;1.86;0;1057;0;100.454669861136;AMD Processor;500;0;AMD;Others/No OS/Linux
+Dell;2 in 1 Convertible;8;1.62;1;3357;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+HP;Ultrabook;8;1.91;0;2701;0;141.211998082198;Intel Core i7;0;256;Intel;Windows
+Dell;Notebook;4;2.3;0;1716;0;100.454669861136;Intel Core i3;1000;0;Intel;Windows
+Apple;Ultrabook;8;1.35;0;4504;0;127.677940133096;Intel Core i5;0;0;Intel;Mac
+Dell;Notebook;8;2.2;0;3279;0;141.211998082198;Intel Core i5;0;256;AMD;Windows
+Dell;Ultrabook;8;1.88;0;5320;0;141.211998082198;Intel Core i7;0;256;Intel;Windows
+HP;Notebook;8;2.5;0;3672;0;127.335674571231;Intel Core i5;1000;0;Nvidia;Windows
+Chuwi;Notebook;4;1.89;0;1004;0;141.211998082198;Other Intel Processor;0;0;Intel;Windows
+Asus;Notebook;2;1.65;0;816;0;111.935203559552;AMD Processor;0;0;AMD;Windows
+HP;Notebook;4;2.71;0;1799;0;127.335674571231;AMD Processor;500;0;AMD;Windows
+Dell;Ultrabook;16;1.2;1;7660;0;276.053530085501;Intel Core i7;0;512;Intel;Windows
+Apple;Ultrabook;8;1.35;0;4090;0;127.677940133096;Intel Core i5;0;0;Intel;Mac
+Lenovo;Notebook;4;1.44;0;1021;0;111.935203559552;Other Intel Processor;0;0;Intel;Windows
+Acer;Notebook;4;2.1;0;1504;0;100.454669861136;Intel Core i3;1000;0;Intel;Others/No OS/Linux
+Dell;Notebook;8;2.8;0;4012;1;127.335674571231;Intel Core i5;0;128;AMD;Windows
+HP;Notebook;4;1.86;0;2003;0;100.454669861136;Intel Core i5;1000;0;Intel;Windows
+HP;Notebook;8;2.1;0;3603;0;141.211998082198;Intel Core i5;0;256;Nvidia;Windows
+Asus;Notebook;4;2;0;1594;0;141.211998082198;Intel Core i3;1000;0;Intel;Others/No OS/Linux
+Dell;Gaming;16;2.65;0;6144;1;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Asus;Notebook;8;2.3;0;2143;0;100.454669861136;Intel Core i5;1000;0;Nvidia;Others/No OS/Linux
+Acer;Notebook;4;2.2;0;2795;1;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Dell;2 in 1 Convertible;12;2.77;1;4094;0;127.335674571231;Intel Core i5;1000;0;Nvidia;Windows
+Apple;Ultrabook;8;1.37;0;5816;1;226.983004681061;Intel Core i5;0;256;Intel;Mac
+Lenovo;Notebook;4;2.2;0;1512;0;100.454669861136;Intel Core i3;0;128;Intel;Others/No OS/Linux
+Asus;Gaming;8;3.2;0;5324;0;127.335674571231;AMD Processor;0;256;AMD;Windows
+Dell;Notebook;4;2.3;0;2619;0;141.211998082198;Intel Core i5;0;256;AMD;Windows
+Asus;Notebook;4;2.8;0;1910;0;90.583401724493;Other Intel Processor;1000;0;Nvidia;Windows
+Lenovo;2 in 1 Convertible;4;0.69;1;1307;1;224.173809078572;Other Intel Processor;0;0;Intel;Others/No OS/Linux
+Acer;Notebook;8;2.2;0;3447;1;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+HP;Notebook;4;1.86;0;1633;0;141.211998082198;AMD Processor;0;256;AMD;Windows
+HP;Notebook;8;1.49;0;4521;0;165.6321180513;Intel Core i7;0;512;Intel;Windows
+Acer;Notebook;4;2.4;0;1574;0;100.454669861136;Intel Core i3;1000;0;Intel;Windows
+Dell;Notebook;8;2.13;0;3147;0;141.211998082198;Intel Core i7;0;256;AMD;Windows
+HP;Notebook;4;1.91;0;1799;0;141.211998082198;Intel Core i3;0;128;Intel;Windows
+Asus;Notebook;4;2;0;2402;0;100.454669861136;Intel Core i5;0;256;Intel;Windows
+MSI;Gaming;16;2.43;0;10037;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Asus;Notebook;4;2;0;1701;0;141.211998082198;Intel Core i3;0;256;Intel;Others/No OS/Linux
+Dell;Notebook;16;2.8;0;5324;0;127.335674571231;Intel Core i7;0;256;AMD;Windows
+Dell;Ultrabook;8;1.7;0;3603;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Lenovo;Notebook;8;1.7;0;2455;1;157.350512148735;Intel Core i3;0;256;Intel;Others/No OS/Linux
+Asus;Notebook;8;1.4;0;3857;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;8;1.86;0;2828;0;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Asus;Ultrabook;16;1.8;0;8127;0;141.211998082198;Intel Core i7;0;512;Nvidia;Windows
+HP;Notebook;4;1.86;0;1798;0;100.454669861136;Intel Core i3;500;0;AMD;Windows
+HP;Notebook;4;1.44;0;939;0;111.935203559552;Other Intel Processor;0;32;Intel;Windows
+Lenovo;Notebook;4;1.9;0;2250;0;141.211998082198;Intel Core i5;1000;0;Intel;Windows
+Asus;Gaming;12;3;0;3889;0;127.335674571231;Intel Core i7;1000;0;Nvidia;Others/No OS/Linux
+Microsoft;Ultrabook;4;1.252;1;4463;0;200.842559936957;Intel Core i5;0;128;Intel;Windows
+Dell;Ultrabook;8;1.4;0;3914;1;165.6321180513;Intel Core i7;0;256;AMD;Windows
+Dell;Notebook;8;2.2;0;3566;0;141.211998082198;Intel Core i7;0;256;AMD;Windows
+MSI;Gaming;8;2.7;0;4488;0;127.335674571231;Intel Core i5;0;128;Nvidia;Windows
+Acer;Notebook;8;2.1;0;1594;0;111.935203559552;Intel Core i3;1000;0;Intel;Windows
+Asus;Gaming;8;2.2;0;3889;0;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+Lenovo;Notebook;8;2.2;0;2127;0;141.211998082198;Intel Core i5;2000;0;Intel;Others/No OS/Linux
+Dell;Notebook;8;2.02;0;3504;0;141.211998082198;Intel Core i7;0;128;Intel;Windows
+Acer;Notebook;4;2.2;0;2172;0;141.211998082198;Intel Core i3;1000;0;Nvidia;Windows
+HP;Notebook;8;2.5;0;4004;0;127.335674571231;Intel Core i5;0;128;Nvidia;Windows
+Dell;Ultrabook;8;1.88;0;4493;1;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Apple;Ultrabook;8;0.92;0;6189;1;226.415547169358;Intel Core i5;0;512;Intel;Mac
+HP;Notebook;8;1.63;0;3525;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Lenovo;Notebook;4;2.2;0;1635;0;141.211998082198;AMD Processor;0;128;AMD;Windows
+Acer;Notebook;4;2.1;0;1619;0;100.454669861136;AMD Processor;1000;0;AMD;Windows
+Dell;Gaming;16;2.65;0;5529;1;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+HP;Ultrabook;8;1.83;0;2865;1;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+HP;Notebook;8;1.96;0;2455;0;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Asus;Gaming;16;2.2;0;5939;1;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+Dell;Ultrabook;8;1.21;0;6758;1;165.6321180513;Intel Core i7;0;256;Intel;Windows
+Asus;Gaming;8;2.45;0;2865;0;141.211998082198;AMD Processor;1000;0;AMD;Windows
+Acer;Notebook;8;2.2;0;2824;0;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+HP;Notebook;16;1.49;0;4906;0;165.6321180513;Intel Core i7;0;512;Intel;Windows
+Dell;Gaming;8;2.65;0;4898;0;141.211998082198;Intel Core i5;0;256;Nvidia;Windows
+Asus;Ultrabook;8;1.25;0;4299;0;157.350512148735;Intel Core i7;0;256;Intel;Windows
+Acer;2 in 1 Convertible;8;1.5;1;3471;1;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Dell;Notebook;8;2.2;0;2459;0;141.211998082198;Intel Core i7;1000;0;AMD;Others/No OS/Linux
+Dell;Notebook;4;2.2;0;1988;0;141.211998082198;Intel Core i3;0;256;AMD;Others/No OS/Linux
+Asus;Notebook;6;2;0;2365;0;141.211998082198;Intel Core i3;0;256;Nvidia;Windows
+HP;Gaming;12;2.62;0;5119;1;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+HP;Notebook;8;1.91;0;2947;0;141.211998082198;Intel Core i7;0;256;AMD;Windows
+HP;Notebook;4;2.1;0;1430;0;141.211998082198;AMD Processor;500;0;AMD;Windows
+Dell;Notebook;8;2.2;0;2652;0;141.211998082198;Intel Core i5;1000;0;AMD;Others/No OS/Linux
+HP;Ultrabook;8;1.38;0;4586;1;165.6321180513;Intel Core i7;0;256;Nvidia;Windows
+Microsoft;Ultrabook;8;1.252;1;5492;0;200.842559936957;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;6;1.58;0;2701;1;157.350512148735;Intel Core i5;0;256;Nvidia;Windows
+Lenovo;Notebook;4;1.85;0;1700;0;141.211998082198;Intel Core i3;1000;0;Intel;Windows
+Asus;Ultrabook;8;1.3;0;4889;1;157.350512148735;Intel Core i7;0;256;Nvidia;Windows
+MSI;Gaming;16;2.2;0;5324;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;Notebook;8;1.58;0;6066;1;157.350512148735;Intel Core i7;0;256;Intel;Windows
+Asus;Ultrabook;16;1.5;0;5172;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Dell;Ultrabook;8;1.23;1;5652;0;276.053530085501;Intel Core i7;0;256;Intel;Windows
+Lenovo;2 in 1 Convertible;8;1.37;1;5734;1;165.6321180513;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;4;1.63;0;2959;1;111.935203559552;Intel Core i5;500;0;Intel;Windows
+Dell;Ultrabook;8;1.21;0;6676;1;165.6321180513;Intel Core i5;0;256;Intel;Windows
+HP;2 in 1 Convertible;8;1.26;1;5734;1;165.6321180513;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;8;1.63;0;4443;0;157.350512148735;Intel Core i7;0;512;Intel;Windows
+Dell;Notebook;8;2.16;0;4633;1;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Asus;Notebook;4;2;0;2312;0;127.335674571231;Intel Core i3;1000;0;Nvidia;Windows
+Asus;Notebook;8;1.7;0;4582;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Acer;Notebook;6;2.1;1;1963;1;141.211998082198;Intel Core i3;1000;0;Intel;Windows
+MSI;Gaming;16;1.8;0;9187;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;Notebook;8;2.2;0;2578;0;141.211998082198;Intel Core i5;0;256;Nvidia;Others/No OS/Linux
+HP;Notebook;16;2.5;0;5209;0;127.335674571231;Intel Core i7;0;512;Nvidia;Windows
+Acer;Notebook;4;2.1;0;1848;0;100.454669861136;AMD Processor;0;256;AMD;Windows
+HP;Notebook;4;1.86;0;1062;0;100.454669861136;Other Intel Processor;500;0;Intel;Others/No OS/Linux
+HP;Notebook;8;1.63;0;3328;0;157.350512148735;Intel Core i5;1000;0;Intel;Windows
+Asus;Notebook;4;1.65;0;1139;0;111.935203559552;AMD Processor;0;64;AMD;Windows
+Dell;Notebook;16;2.8;0;5721;0;127.335674571231;Intel Core i7;0;256;AMD;Windows
+HP;Notebook;8;2.5;0;3803;0;127.335674571231;Intel Core i5;0;256;Intel;Windows
+Dell;Notebook;8;2.36;0;2619;0;100.454669861136;Intel Core i5;1000;0;AMD;Windows
+Dell;Notebook;4;2.2;0;1840;0;141.211998082198;Intel Core i3;1000;0;AMD;Windows
+Acer;Ultrabook;8;1.6;0;3623;1;157.350512148735;Intel Core i7;0;256;Intel;Windows
+Acer;Notebook;4;2.2;0;2344;0;141.211998082198;Intel Core i3;0;256;Nvidia;Windows
+HP;Notebook;8;2.05;0;2451;0;100.454669861136;Intel Core i7;1000;0;Intel;Windows
+HP;Notebook;8;1.63;0;4049;0;157.350512148735;Intel Core i7;0;256;Intel;Windows
+Lenovo;Notebook;4;1.9;0;1034;0;100.454669861136;Other Intel Processor;1000;0;Intel;Others/No OS/Linux
+Asus;Gaming;8;3;0;3844;0;127.335674571231;Intel Core i5;0;128;Nvidia;Windows
+Lenovo;Notebook;4;2.2;0;2045;0;141.211998082198;Intel Core i5;1000;0;Nvidia;Others/No OS/Linux
+HP;Notebook;4;1.32;0;2865;1;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Acer;Notebook;4;3;0;2684;1;127.335674571231;Intel Core i3;1000;0;Nvidia;Windows
+Lenovo;Notebook;8;1.75;0;4574;1;157.350512148735;Intel Core i5;0;256;AMD;Windows
+Lenovo;Gaming;8;2.4;0;3562;1;141.211998082198;Intel Core i7;0;256;Nvidia;Others/No OS/Linux
+Toshiba;Notebook;4;2.1;0;2467;0;100.454669861136;Intel Core i5;500;0;Intel;Windows
+HP;Notebook;4;1.86;0;1512;0;100.454669861136;AMD Processor;0;256;AMD;Windows
+Asus;Ultrabook;8;1.25;0;4504;0;157.350512148735;Intel Core i7;0;256;Intel;Windows
+HP;Ultrabook;8;0.97;1;8254;1;352.465147213167;Other Intel Processor;0;512;Intel;Windows
+Asus;Notebook;4;2;0;1410;0;141.211998082198;Other Intel Processor;1000;0;Intel;Windows
+MSI;Gaming;16;2.9;0;8316;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Acer;Notebook;4;2.1;0;1832;0;100.454669861136;Intel Core i3;1000;0;Intel;Windows
+Dell;Gaming;16;2.56;0;5120;0;141.211998082198;Intel Core i7;0;512;Nvidia;Windows
+Dell;Gaming;8;2.62;0;3685;0;141.211998082198;Intel Core i7;0;0;Nvidia;Windows
+Lenovo;Notebook;4;1.9;0;2041;0;100.454669861136;Intel Core i5;0;128;Intel;Windows
+MSI;Gaming;16;2.8;0;7746;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+HP;Ultrabook;4;1.48;0;4435;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;6;1.91;0;2537;0;141.211998082198;Intel Core i5;0;256;AMD;Windows
+Lenovo;2 in 1 Convertible;4;1.74;1;2578;1;157.350512148735;Intel Core i3;0;256;Intel;Windows
+Asus;2 in 1 Convertible;8;1.1;1;5389;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Dell;2 in 1 Convertible;8;1.56;1;4299;0;141.211998082198;Intel Core i7;0;256;Intel;Windows
+Toshiba;Notebook;4;2.1;0;1832;0;100.454669861136;Intel Core i3;500;0;Intel;Windows
+Asus;Notebook;4;2.03;0;1652;0;100.454669861136;AMD Processor;1000;0;AMD;Windows
+Acer;Notebook;4;3;0;3299;1;127.335674571231;Intel Core i5;0;256;Nvidia;Windows
+Dell;Notebook;8;2.13;0;2984;0;141.211998082198;Intel Core i5;0;256;AMD;Windows
+Lenovo;Gaming;16;2.5;0;4422;1;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Acer;Notebook;4;2.1;0;1426;0;100.454669861136;Other Intel Processor;1000;0;Intel;Windows
+MSI;Gaming;16;2.4;0;7373;1;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Acer;Notebook;4;2.1;0;1490;0;100.454669861136;Other Intel Processor;1000;0;Intel;Windows
+Dell;Gaming;8;2.56;0;4346;0;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+Acer;Notebook;8;3;0;3500;1;127.335674571231;Intel Core i5;0;256;Nvidia;Windows
+HP;Notebook;4;1.49;0;3090;1;165.6321180513;Intel Core i5;500;0;Intel;Windows
+Huawei;Ultrabook;8;1.05;0;5529;1;199.692070641082;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;6;2.71;0;2865;1;127.335674571231;Intel Core i5;2000;0;AMD;Windows
+Lenovo;Notebook;4;2.2;0;1266;0;100.454669861136;AMD Processor;500;0;AMD;Others/No OS/Linux
+Toshiba;Notebook;4;2;0;2004;0;100.454669861136;Intel Core i3;500;0;Intel;Windows
+HP;Notebook;8;2.5;0;3783;0;127.335674571231;Intel Core i5;0;256;Nvidia;Windows
+Dell;Notebook;8;2.3;0;1881;0;100.454669861136;Intel Core i3;1000;0;Intel;Windows
+Acer;Notebook;4;2.1;0;1840;0;100.454669861136;Intel Core i3;0;128;Intel;Windows
+MSI;Gaming;32;4.4;0;11472;0;119.723215765342;Intel Core i7;0;512;Nvidia;Windows
+Lenovo;Notebook;8;1.9;0;3332;0;141.211998082198;Intel Core i5;0;128;AMD;Windows
+HP;2 in 1 Convertible;8;1.29;1;6144;1;331.264236102601;Intel Core i5;0;256;Intel;Windows
+Dell;Notebook;16;2.02;0;4299;0;141.211998082198;Intel Core i7;0;256;AMD;Others/No OS/Linux
+Dell;Ultrabook;8;1.23;0;5734;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Lenovo;2 in 1 Convertible;16;1.4;1;7578;1;316.965060443496;Intel Core i7;0;512;Intel;Windows
+Toshiba;Notebook;8;2;0;3250;0;100.454669861136;Intel Core i5;0;128;Intel;Windows
+Xiaomi;Notebook;8;1.95;0;4914;1;141.211998082198;Intel Core i5;0;256;Nvidia;Others/No OS/Linux
+Dell;Notebook;16;2.77;1;6349;0;127.335674571231;Intel Core i7;0;512;Nvidia;Windows
+Dell;Notebook;16;2.06;1;9824;0;282.423996164397;Intel Core i7;0;512;Nvidia;Windows
+Lenovo;Gaming;8;2.4;0;3193;1;141.211998082198;Intel Core i5;0;256;Nvidia;Others/No OS/Linux
+Acer;Ultrabook;8;1.12;0;4053;1;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Dell;Notebook;8;2.8;0;4447;0;127.335674571231;Intel Core i7;0;128;AMD;Windows
+Lenovo;2 in 1 Convertible;16;1.42;1;11574;0;209.80068286498;Intel Core i7;0;1000;Intel;Windows
+Vero;Notebook;4;1.3;0;1066;1;157.350512148735;Other Intel Processor;0;0;Intel;Windows
+Xiaomi;Ultrabook;8;1.3;0;4098;1;165.6321180513;Intel Core i5;0;256;Nvidia;Others/No OS/Linux
+Lenovo;Notebook;8;2.8;0;2861;0;106.113062142692;Intel Core i5;0;256;Nvidia;Others/No OS/Linux
+Dell;2 in 1 Convertible;8;1.62;1;3439;1;165.6321180513;Intel Core i7;1000;0;Intel;Windows
+HP;Notebook;8;2.5;0;3746;1;127.335674571231;Intel Core i5;1000;0;Nvidia;Windows
+Razer;Gaming;32;3.49;1;24997;0;254.671349142462;Intel Core i7;0;1000;Nvidia;Windows
+HP;Notebook;8;1.49;0;3930;0;165.6321180513;Intel Core i5;0;512;Intel;Windows
+HP;Gaming;16;3.35;0;5652;1;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+HP;Notebook;8;2.5;0;4283;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Dell;Gaming;16;2.65;0;7562;1;282.423996164397;Intel Core i7;0;512;Nvidia;Windows
+Lenovo;Notebook;4;2.1;0;2021;0;100.454669861136;Intel Core i5;0;128;Intel;Windows
+Acer;Notebook;8;2.23;0;3041;0;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+Lenovo;Gaming;16;3.2;0;7168;1;141.211998082198;Intel Core i7;0;512;Nvidia;Windows
+Dell;Workstation;16;2.8;0;12521;0;282.423996164397;Other Intel Processor;0;256;Nvidia;Windows
+Lenovo;Gaming;16;2.4;0;5730;0;141.211998082198;Intel Core i7;0;512;Nvidia;Others/No OS/Linux
+Dell;Notebook;6;2.3;1;1799;0;100.454669861136;Intel Core i3;1000;0;Intel;Windows
+Dell;Ultrabook;8;1.21;1;7988;1;331.264236102601;Intel Core i7;0;256;Intel;Windows
+Dell;Ultrabook;8;1.2;0;5939;0;165.6321180513;Intel Core i7;0;256;Intel;Windows
+Lenovo;Notebook;8;2.2;0;2447;0;100.454669861136;Intel Core i5;0;256;Intel;Windows
+Acer;Notebook;8;2.4;0;3193;0;141.211998082198;Intel Core i7;1000;0;Nvidia;Others/No OS/Linux
+Asus;Gaming;16;2.9;0;5767;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+HP;Notebook;4;2.1;0;1430;0;141.211998082198;Intel Core i3;500;0;Intel;Others/No OS/Linux
+Lenovo;Notebook;8;2.2;0;2250;0;141.211998082198;Intel Core i5;0;256;Intel;Others/No OS/Linux
+Huawei;Ultrabook;8;1.05;0;6144;1;199.692070641082;Intel Core i7;0;512;Intel;Windows
+Dell;Ultrabook;8;1.4;0;3819;1;165.6321180513;Intel Core i7;0;256;AMD;Windows
+Lenovo;Notebook;8;2.8;0;2414;0;106.113062142692;Intel Core i5;1000;0;Nvidia;Others/No OS/Linux
+HP;Notebook;8;1.63;0;4226;0;157.350512148735;Intel Core i7;0;256;Nvidia;Windows
+Dell;Ultrabook;8;1.6;0;4709;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Dell;2 in 1 Convertible;16;1.62;1;5242;0;165.6321180513;Intel Core i7;0;512;Intel;Windows
+Dell;Notebook;8;2.2;0;2776;0;141.211998082198;Intel Core i5;0;256;AMD;Others/No OS/Linux
+Lenovo;2 in 1 Convertible;8;1.74;0;3685;1;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Toshiba;Ultrabook;8;1.2;0;5586;0;165.6321180513;Intel Core i7;0;256;Intel;Windows
+HP;Notebook;8;2.1;0;3254;0;141.211998082198;Intel Core i5;1000;0;Intel;Windows
+Dell;Gaming;16;4.42;0;10067;1;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Acer;Notebook;8;2.2;0;3410;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Dell;Notebook;16;2.3;1;3521;0;141.211998082198;Intel Core i7;1000;0;AMD;Windows
+Asus;Notebook;8;2;0;3152;0;141.211998082198;Intel Core i5;0;256;Nvidia;Windows
+Asus;Notebook;8;2.69;0;3652;0;127.335674571231;Intel Core i5;0;256;Nvidia;Windows
+HP;Notebook;8;1.9;0;5201;0;141.211998082198;Intel Core i7;1000;0;AMD;Windows
+Asus;Notebook;4;2.37;0;1635;0;100.454669861136;Intel Core i3;1000;0;Intel;Windows
+HP;Notebook;4;2.1;0;1352;0;100.454669861136;AMD Processor;500;0;AMD;Windows
+Lenovo;Gaming;16;3.2;0;6144;1;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Dell;Notebook;8;1.6;0;3521;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Acer;2 in 1 Convertible;8;1.6;1;2824;1;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Dell;Notebook;16;2.36;0;3685;0;141.211998082198;Intel Core i7;0;256;AMD;Others/No OS/Linux
+Acer;Notebook;4;2.1;0;1598;0;100.454669861136;Intel Core i3;1000;0;Intel;Others/No OS/Linux
+Asus;Notebook;4;2.2;0;2357;0;141.211998082198;AMD Processor;0;128;AMD;Windows
+Asus;Gaming;32;4.7;0;15943;0;127.335674571231;Intel Core i7;0;512;Nvidia;Windows
+Acer;Gaming;8;2.5;0;3467;1;141.211998082198;Intel Core i5;0;256;Nvidia;Windows
+Lenovo;Notebook;8;2.2;0;2414;0;100.454669861136;Intel Core i3;0;128;Intel;Windows
+Asus;Notebook;8;2.1;0;4693;0;127.335674571231;Intel Core i7;0;128;Nvidia;Windows
+Asus;Notebook;8;2.69;0;3644;0;127.335674571231;Intel Core i7;0;128;Nvidia;Others/No OS/Linux
+Dell;Gaming;8;2.56;0;3603;0;141.211998082198;Intel Core i5;0;256;Nvidia;Windows
+Lenovo;2 in 1 Convertible;8;1.38;1;4422;1;158.482530221748;Intel Core i7;0;256;Intel;Windows
+Dell;Notebook;8;2.2;0;4037;0;141.211998082198;Intel Core i7;0;128;AMD;Windows
+HP;Notebook;8;2.04;1;2291;0;100.454669861136;Intel Core i5;1000;0;Intel;Windows
+Asus;Gaming;16;3.6;0;12291;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+HP;Notebook;4;1.49;0;2766;1;165.6321180513;Intel Core i5;500;0;Intel;Windows
+Apple;Ultrabook;8;1.37;0;8361;1;226.983004681061;Intel Core i5;0;512;Intel;Mac
+Dell;2 in 1 Convertible;8;2.08;1;3357;1;141.211998082198;Intel Core i7;1000;0;Intel;Windows
+Asus;Gaming;16;4.3;0;7373;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Asus;Notebook;4;1.68;0;1922;0;100.454669861136;AMD Processor;1000;0;AMD;Windows
+Lenovo;2 in 1 Convertible;8;1.37;1;7578;1;158.482530221748;Intel Core i7;0;512;Intel;Windows
+Acer;Notebook;4;3;0;2877;1;127.335674571231;Intel Core i3;0;256;Nvidia;Windows
+Dell;Ultrabook;8;1.41;0;3889;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;8;1.91;0;1828;0;100.454669861136;AMD Processor;0;128;AMD;Windows
+HP;Notebook;16;2.9;0;4340;1;127.335674571231;Intel Core i7;1000;0;Nvidia;Windows
+MSI;Gaming;16;4.14;0;10242;0;127.335674571231;Intel Core i7;0;512;Nvidia;Windows
+Lenovo;2 in 1 Convertible;8;2;1;6963;1;141.211998082198;Intel Core i7;0;512;Nvidia;Windows
+Dell;Notebook;8;2.8;0;4680;0;127.335674571231;Intel Core i7;0;128;AMD;Windows
+Lenovo;Notebook;4;2.2;0;1820;0;141.211998082198;Intel Core i3;0;256;Intel;Others/No OS/Linux
+HP;Notebook;4;2.1;0;2959;1;141.211998082198;Intel Core i5;500;0;Intel;Windows
+Dell;Notebook;4;2.18;0;2693;0;141.211998082198;Intel Core i5;1000;0;Intel;Windows
+Dell;Notebook;8;2.24;0;2316;0;141.211998082198;Intel Core i5;1000;0;AMD;Windows
+Dell;2 in 1 Convertible;8;2.67;1;3275;0;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Asus;2 in 1 Convertible;8;1.1;1;6144;0;165.6321180513;Intel Core i7;0;512;Intel;Windows
+Lenovo;Notebook;4;2.2;0;1914;0;141.211998082198;Intel Core i5;1000;0;Intel;Others/No OS/Linux
+HP;Notebook;8;2.5;0;4172;0;127.335674571231;Intel Core i7;1000;0;Nvidia;Windows
+Lenovo;Notebook;8;2.05;0;3607;0;141.211998082198;Intel Core i7;0;256;Intel;Windows
+Apple;Ultrabook;8;1.37;0;8028;1;226.983004681061;Intel Core i5;0;512;Intel;Mac
+Asus;Gaming;16;3.2;0;6349;0;127.335674571231;AMD Processor;0;256;AMD;Windows
+Dell;Notebook;8;2.14;0;3013;0;141.211998082198;Intel Core i7;0;256;AMD;Others/No OS/Linux
+Lenovo;2 in 1 Convertible;16;1.36;1;10242;0;209.80068286498;Intel Core i7;0;512;Intel;Windows
+Toshiba;Notebook;8;2.2;0;3328;0;100.454669861136;Intel Core i7;500;0;Nvidia;Windows
+Dell;Notebook;12;2.3;0;2922;0;100.454669861136;Intel Core i7;1000;0;Intel;Windows
+Dell;Notebook;8;2.8;0;4504;0;127.335674571231;Intel Core i7;0;128;AMD;Others/No OS/Linux
+Acer;Notebook;8;2.2;0;3053;1;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+Lenovo;Notebook;4;2.8;0;2004;0;106.113062142692;Intel Core i3;1000;0;Intel;Windows
+Lenovo;Notebook;8;2.8;0;3480;0;127.335674571231;Intel Core i7;2000;0;Nvidia;Others/No OS/Linux
+Lenovo;Notebook;6;2.8;0;3521;0;106.113062142692;Intel Core i7;0;128;Nvidia;Windows
+Dell;Notebook;4;2.25;0;1754;0;141.211998082198;Intel Core i3;1000;0;AMD;Others/No OS/Linux
+Lenovo;Gaming;8;2.5;0;3398;1;141.211998082198;Intel Core i5;0;256;Nvidia;Windows
+Lenovo;Notebook;6;2.2;0;2373;0;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Acer;Notebook;8;3;0;3898;1;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Acer;Notebook;12;2.15;1;2701;1;141.211998082198;Intel Core i7;1000;0;Intel;Windows
+Lenovo;Notebook;8;1.95;0;4496;1;141.211998082198;Intel Core i7;0;256;Intel;Windows
+Asus;Ultrabook;8;1.7;0;4004;0;141.211998082198;Intel Core i5;0;256;Nvidia;Windows
+Lenovo;Gaming;16;2.5;0;4832;1;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;Notebook;8;2.2;0;2701;0;141.211998082198;Intel Core i7;1000;0;Nvidia;Others/No OS/Linux
+Acer;Notebook;2;2.19;0;816;0;100.454669861136;Other Intel Processor;0;16;Intel;Others/No OS/Linux
+Asus;Gaming;8;3;0;4865;0;127.335674571231;Intel Core i7;1000;0;Nvidia;Windows
+HP;Notebook;8;2.54;0;2004;0;106.113062142692;Intel Core i3;1000;0;Intel;Windows
+Dell;Notebook;8;2;0;7496;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;Notebook;8;2.05;0;3029;0;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Lenovo;Gaming;8;3.2;0;5324;1;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+Acer;Notebook;8;2.5;0;4012;0;141.211998082198;Intel Core i7;0;256;Nvidia;Others/No OS/Linux
+Dell;Workstation;16;3.42;0;11823;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;Notebook;6;2.4;0;2045;0;141.211998082198;AMD Processor;1000;0;AMD;Windows
+Asus;Ultrabook;16;1.63;0;6017;0;141.211998082198;Intel Core i7;0;512;Nvidia;Windows
+Asus;Notebook;4;1.3;0;2086;0;111.935203559552;Intel Core i3;0;128;Intel;Windows
+Asus;Gaming;16;2.9;0;8697;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;Notebook;6;2.8;0;2660;0;106.113062142692;Intel Core i5;1000;0;Nvidia;Windows
+Lenovo;Notebook;8;2.2;0;2250;0;100.454669861136;Intel Core i5;2000;0;Nvidia;Others/No OS/Linux
+Asus;Gaming;8;2.5;0;5185;0;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+Lenovo;Notebook;4;2.2;0;1475;0;100.454669861136;Other Intel Processor;1000;0;Intel;Others/No OS/Linux
+HP;2 in 1 Convertible;16;1.28;1;8094;0;165.6321180513;Intel Core i7;0;256;Intel;Windows
+Toshiba;Notebook;8;2.2;0;4275;1;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;Notebook;8;2.3;0;3357;0;141.211998082198;Intel Core i5;0;128;Nvidia;Windows
+HP;Notebook;4;1.86;0;1922;0;141.211998082198;Intel Core i3;1000;0;Intel;Windows
+Lenovo;Notebook;8;1.1;0;4094;1;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Dell;Ultrabook;16;1.21;1;10242;1;331.264236102601;Intel Core i7;0;1000;Intel;Windows
+MSI;Gaming;16;2.8;0;8603;1;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Acer;Notebook;8;2.23;0;1922;0;141.211998082198;AMD Processor;0;256;AMD;Windows
+Asus;2 in 1 Convertible;2;1.1;1;1127;0;135.094211192562;Other Intel Processor;0;0;Intel;Windows
+Dell;Notebook;8;2.33;0;3459;0;141.211998082198;Intel Core i5;0;128;AMD;Windows
+HP;2 in 1 Convertible;16;1.29;1;10037;1;331.264236102601;Intel Core i7;0;1000;Intel;Windows
+Lenovo;Notebook;4;1.45;0;1885;0;117.826530062686;Other Intel Processor;0;0;Intel;Others/No OS/Linux
+HP;Notebook;8;1.95;0;4016;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Acer;Notebook;4;1.4;0;1988;0;135.094211192562;Other Intel Processor;0;0;Intel;Windows
+HP;Notebook;8;1.48;0;5295;0;157.350512148735;Intel Core i7;0;256;Intel;Windows
+Lenovo;Notebook;4;2.79;0;2414;0;106.113062142692;Intel Core i5;1000;0;Nvidia;Windows
+Asus;Notebook;8;2;0;4484;0;157.350512148735;Intel Core i7;0;256;Intel;Windows
+HP;Notebook;8;2.1;0;3697;1;100.454669861136;Intel Core i7;1000;0;Intel;Windows
+Acer;Notebook;8;2.2;0;2701;0;100.454669861136;AMD Processor;0;256;AMD;Windows
+Lenovo;Notebook;4;1.44;0;1197;0;111.935203559552;Other Intel Processor;0;0;Intel;Windows
+Acer;Notebook;6;2.23;0;2250;0;100.454669861136;Intel Core i5;1000;0;Intel;Windows
+Asus;Ultrabook;8;1.7;0;4303;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+HP;Ultrabook;8;1.26;0;5471;0;176.232573606583;Intel Core i7;0;256;Intel;Windows
+Dell;Notebook;32;2.06;1;10816;0;282.423996164397;Intel Core i7;0;1000;Nvidia;Windows
+MSI;Gaming;8;2.7;0;4914;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Toshiba;Notebook;8;2;0;3865;1;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Asus;Notebook;8;2;0;5467;0;157.350512148735;Intel Core i7;0;256;Intel;Windows
+Lenovo;Notebook;4;1.85;0;1840;0;141.211998082198;Intel Core i3;1000;0;Intel;Windows
+Asus;Gaming;8;2.5;0;4094;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+HP;Notebook;8;1.48;0;5197;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Dell;Ultrabook;8;1.9;0;4299;1;141.211998082198;Intel Core i5;0;128;Nvidia;Windows
+HP;Notebook;8;1.84;0;4689;0;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Asus;Notebook;4;2;0;1127;0;100.454669861136;Other Intel Processor;1000;0;Intel;Others/No OS/Linux
+Dell;Notebook;8;2;0;4684;0;141.211998082198;Intel Core i5;0;256;Nvidia;Windows
+Dell;Notebook;4;2.2;0;1127;0;100.454669861136;Other Intel Processor;500;0;Intel;Others/No OS/Linux
+Lenovo;Notebook;12;2.2;0;3685;0;141.211998082198;AMD Processor;2000;0;AMD;Windows
+HP;Notebook;8;2.1;0;2934;1;141.211998082198;Intel Core i3;1000;0;Nvidia;Windows
+Lenovo;2 in 1 Convertible;16;1.4;1;8603;1;316.965060443496;Intel Core i7;0;512;Intel;Windows
+Dell;Ultrabook;8;1.2;0;6471;0;165.6321180513;Intel Core i7;0;256;Intel;Windows
+Lenovo;Gaming;16;2.4;0;4627;1;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+HP;Notebook;2;1.44;0;1143;0;111.935203559552;Other Intel Processor;0;0;Intel;Windows
+Dell;Ultrabook;16;1.88;0;6590;0;141.211998082198;Intel Core i7;0;512;Intel;Windows
+Asus;2 in 1 Convertible;4;1.5;1;1537;0;135.094211192562;Other Intel Processor;0;0;Intel;Windows
+Dell;Ultrabook;8;1.9;0;2717;0;141.211998082198;Intel Core i5;1000;0;AMD;Windows
+Dell;Notebook;16;2.06;1;8309;0;282.423996164397;Intel Core i7;0;512;Nvidia;Windows
+HP;Notebook;8;1.84;0;5344;0;141.211998082198;Intel Core i7;0;256;Intel;Windows
+MSI;Gaming;8;2.7;0;5775;0;127.335674571231;Intel Core i7;0;128;Nvidia;Windows
+HP;Workstation;8;2.6;0;7124;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Toshiba;Notebook;16;2.4;0;5750;1;141.211998082198;Intel Core i7;0;512;Nvidia;Windows
+Dell;Notebook;8;2.02;0;3979;0;141.211998082198;Intel Core i7;0;128;AMD;Windows
+Lenovo;Notebook;4;2.2;0;1320;0;100.454669861136;Other Intel Processor;1000;0;Intel;Others/No OS/Linux
+Dell;Gaming;8;2.65;0;4094;0;141.211998082198;Intel Core i5;1000;0;Nvidia;Windows
+Dell;Notebook;8;2.36;1;2284;0;100.454669861136;Intel Core i5;2000;0;Intel;Windows
+Dell;Notebook;8;1.36;0;5849;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;4;1.86;0;1799;0;100.454669861136;Intel Core i3;500;0;Intel;Windows
+Asus;Notebook;8;2;0;3873;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Lenovo;Notebook;6;2.8;0;2947;0;106.113062142692;Intel Core i5;0;128;Nvidia;Windows
+HP;Notebook;8;1.86;0;2619;0;141.211998082198;Intel Core i5;1000;0;Intel;Windows
+Lenovo;Notebook;8;2.2;0;2045;0;100.454669861136;Intel Core i3;0;256;Nvidia;Others/No OS/Linux
+HP;Notebook;8;2.04;0;1594;0;100.454669861136;Other Intel Processor;2000;0;Intel;Windows
+Dell;Notebook;8;2.8;0;4447;0;127.335674571231;Intel Core i5;0;128;AMD;Windows
+Lenovo;Gaming;8;2.4;0;3316;1;141.211998082198;Intel Core i5;0;128;Nvidia;Others/No OS/Linux
+Dell;Notebook;8;2.33;0;3685;0;141.211998082198;Intel Core i7;0;256;AMD;Windows
+HP;Ultrabook;8;1.36;0;7172;1;157.350512148735;Intel Core i7;0;256;Intel;Windows
+Asus;2 in 1 Convertible;12;2.26;1;4504;0;141.211998082198;Intel Core i7;0;512;Nvidia;Windows
+Acer;Notebook;4;2.1;0;1746;0;100.454669861136;AMD Processor;0;128;AMD;Windows
+Asus;Gaming;16;3.25;0;9013;1;127.335674571231;AMD Processor;0;256;AMD;Windows
+Lenovo;Notebook;4;2.6;0;2004;0;106.113062142692;AMD Processor;0;128;AMD;Windows
+Dell;2 in 1 Convertible;8;1.62;1;3562;0;165.6321180513;Intel Core i7;0;256;Intel;Windows
+HP;Notebook;4;1.91;0;2004;0;141.211998082198;AMD Processor;0;256;AMD;Windows
+Lenovo;Netbook;4;1.59;0;2266;1;135.094211192562;Other Intel Processor;0;128;Intel;Windows
+Dell;Notebook;4;1.8;0;1266;0;100.454669861136;Other Intel Processor;500;0;Intel;Windows
+Asus;Notebook;4;1.5;0;1172;0;111.935203559552;Other Intel Processor;0;0;Intel;Windows
+Acer;Notebook;8;2.4;0;3467;0;141.211998082198;Intel Core i7;1000;0;Nvidia;Others/No OS/Linux
+HP;Gaming;8;3.35;0;4881;1;127.335674571231;Intel Core i7;0;128;Nvidia;Windows
+Lenovo;Notebook;4;1.85;0;1654;0;141.211998082198;Intel Core i3;0;128;Intel;Others/No OS/Linux
+Asus;Gaming;8;2.3;0;6783;1;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+Lenovo;Notebook;8;1.5;0;4504;1;157.350512148735;Intel Core i5;0;256;Nvidia;Windows
+Asus;Ultrabook;16;1.1;1;7168;0;165.6321180513;Intel Core i7;0;512;Intel;Windows
+Lenovo;Ultrabook;8;1.13;0;9353;1;209.80068286498;Intel Core i7;0;512;Intel;Windows
+Lenovo;Notebook;4;1.5;0;2250;1;165.6321180513;Intel Core i3;0;128;Intel;Windows
+Dell;Workstation;8;2.23;0;5611;0;141.211998082198;Intel Core i5;500;0;AMD;Windows
+Dell;Workstation;8;2;0;8750;1;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;2 in 1 Convertible;16;1.42;1;10283;0;209.80068286498;Intel Core i7;0;512;Intel;Windows
+Asus;Gaming;8;3;0;4258;0;127.335674571231;Intel Core i7;1000;0;Nvidia;Windows
+Asus;Gaming;16;3;0;6521;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Acer;Notebook;12;2.2;0;2844;1;100.454669861136;Intel Core i5;1000;0;Nvidia;Windows
+MSI;Gaming;8;2.7;0;5529;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Dell;Notebook;8;2.33;0;3192;0;141.211998082198;Intel Core i7;0;256;AMD;Others/No OS/Linux
+HP;Ultrabook;4;1.91;0;2045;0;141.211998082198;AMD Processor;0;256;AMD;Windows
+Lenovo;Notebook;8;2.1;0;5039;1;141.211998082198;Intel Core i7;0;256;AMD;Windows
+Lenovo;Notebook;8;1.9;0;3844;1;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Dell;Workstation;8;1.78;1;11115;0;282.423996164397;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;Ultrabook;16;1.13;0;10758;1;209.80068286498;Intel Core i7;0;1000;Intel;Windows
+Lenovo;Notebook;4;2.2;0;1254;0;100.454669861136;Other Intel Processor;1000;0;Intel;Windows
+Asus;Gaming;16;2.9;0;6267;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;Notebook;8;2.1;0;4691;1;141.211998082198;Intel Core i5;0;256;AMD;Windows
+Acer;Notebook;8;2.5;0;3603;0;141.211998082198;Intel Core i7;0;256;Nvidia;Others/No OS/Linux
+MSI;Gaming;16;2.8;0;9217;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Asus;Ultrabook;8;1.1;0;7676;0;157.350512148735;Intel Core i7;0;512;Intel;Windows
+Toshiba;Ultrabook;16;1.2;0;7160;0;165.6321180513;Intel Core i7;0;512;Intel;Windows
+Dell;Ultrabook;8;1.36;0;6885;0;157.350512148735;Intel Core i7;0;512;Intel;Windows
+Lenovo;Notebook;4;2.2;0;1676;0;141.211998082198;Intel Core i3;500;0;Intel;Windows
+Lenovo;Notebook;2;1.15;0;1248;0;135.094211192562;Other Intel Processor;0;0;Intel;Windows
+Lenovo;Workstation;8;2.67;0;7890;0;141.211998082198;Intel Core i7;0;512;Nvidia;Windows
+Lenovo;Ultrabook;8;1.7;0;7963;1;209.80068286498;Intel Core i7;0;512;Nvidia;Windows
+HP;Notebook;4;2.1;0;1922;0;141.211998082198;Intel Core i3;1000;0;AMD;Windows
+Acer;2 in 1 Convertible;8;1.6;1;3234;1;165.6321180513;Intel Core i7;0;256;Intel;Windows
+Asus;2 in 1 Convertible;8;1.27;1;3803;1;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Dell;Notebook;4;2.3;0;2455;0;141.211998082198;Intel Core i5;0;256;AMD;Others/No OS/Linux
+Dell;Notebook;4;1.65;0;2824;0;117.826530062686;Intel Core i3;0;128;Intel;Windows
+HP;Ultrabook;8;1.43;0;6148;0;157.350512148735;Intel Core i7;0;256;Intel;Windows
+Dell;Notebook;8;2.14;0;2213;0;100.454669861136;Intel Core i5;1000;0;Intel;Windows
+Lenovo;Ultrabook;8;1.75;0;4981;1;157.350512148735;Intel Core i7;0;256;AMD;Windows
+Lenovo;2 in 1 Convertible;16;2;1;7783;1;282.423996164397;Intel Core i7;0;512;Nvidia;Windows
+Chuwi;Notebook;6;1.4;0;1840;1;267.338436034403;Other Intel Processor;0;0;Intel;Windows
+HP;Notebook;8;2.31;0;5849;0;141.211998082198;Intel Core i7;0;256;Intel;Windows
+Asus;Notebook;8;2.3;0;2447;0;141.211998082198;Intel Core i3;1000;0;Nvidia;Others/No OS/Linux
+Dell;Gaming;16;4.42;0;11472;1;169.780899428308;Intel Core i7;0;256;Nvidia;Windows
+Dell;Gaming;8;2.62;0;4750;1;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+Dell;Notebook;8;2.02;0;4682;0;141.211998082198;Intel Core i7;0;256;AMD;Windows
+Dell;Ultrabook;8;1.6;0;4504;0;157.350512148735;Intel Core i7;0;256;Intel;Others/No OS/Linux
+HP;Gaming;12;3.35;0;8193;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Mediacom;2 in 1 Convertible;4;1.16;1;1225;1;189.905790524336;Other Intel Processor;0;32;Intel;Windows
+Samsung;Netbook;4;1.15;0;1102;0;135.094211192562;Other Intel Processor;0;0;Intel;Others/No OS/Linux
+Lenovo;Notebook;8;1.4;0;4139;1;165.6321180513;Intel Core i7;0;256;Intel;Windows
+Lenovo;Notebook;4;1.7;0;2455;1;157.350512148735;Intel Core i3;0;128;Intel;Windows
+Lenovo;Workstation;16;2.3;0;10021;1;282.423996164397;Intel Core i7;0;512;Nvidia;Windows
+Lenovo;Notebook;16;2.5;0;10037;0;141.211998082198;Intel Core i7;0;512;Nvidia;Windows
+Asus;Gaming;8;3.2;0;6947;0;127.335674571231;AMD Processor;0;256;AMD;Windows
+HP;Notebook;4;2.1;0;1422;0;100.454669861136;Other Intel Processor;500;0;Intel;Windows
+Google;Ultrabook;16;1.1;1;9013;0;234.507400030178;Intel Core i7;0;512;Intel;Others/No OS/Linux
+Lenovo;Ultrabook;24;1.32;0;9763;0;209.80068286498;Intel Core i7;0;512;Intel;Windows
+Asus;Notebook;4;2;0;2291;0;141.211998082198;Intel Core i5;0;256;Intel;Others/No OS/Linux
+Lenovo;Notebook;8;2.8;0;2127;0;106.113062142692;AMD Processor;1000;0;AMD;Windows
+Dell;Notebook;4;2.2;0;3070;0;141.211998082198;Intel Core i5;0;256;AMD;Windows
+Lenovo;Ultrabook;8;1.36;0;5857;1;176.232573606583;Intel Core i5;0;256;Intel;Windows
+Lenovo;Notebook;4;2.2;0;1430;0;141.211998082198;Other Intel Processor;0;128;Intel;Windows
+HP;Gaming;8;2.2;0;4504;1;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+Dell;Notebook;8;1.64;0;4832;0;157.350512148735;Intel Core i5;0;256;Nvidia;Windows
+Acer;Notebook;4;2.4;0;1811;0;100.454669861136;Intel Core i5;500;0;Intel;Others/No OS/Linux
+Dell;Workstation;8;2.23;0;8168;0;141.211998082198;Other Intel Processor;0;0;Nvidia;Windows
+MSI;Gaming;8;2.2;0;4212;0;141.211998082198;Intel Core i5;0;256;Nvidia;Windows
+Microsoft;Ultrabook;16;1.25;1;10611;0;200.842559936957;Intel Core i7;0;512;Intel;Windows
+HP;Notebook;8;1.91;0;2414;0;100.454669861136;Intel Core i5;0;128;Intel;Windows
+Dell;Workstation;16;2.17;0;8094;1;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+HP;Workstation;8;2.31;0;6287;1;141.211998082198;Intel Core i7;0;512;Intel;Windows
+Lenovo;Notebook;8;1.65;0;5512;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Dell;Notebook;8;2.36;0;4012;0;141.211998082198;Intel Core i7;0;128;AMD;Windows
+Dell;2 in 1 Convertible;4;1.47;1;1963;0;135.094211192562;Other Intel Processor;500;0;Intel;Windows
+Dell;Notebook;8;4.42;0;8385;1;127.335674571231;Intel Core i7;1000;0;Nvidia;Windows
+Microsoft;Ultrabook;4;1.252;1;4053;0;200.842559936957;Other Intel Processor;0;128;Intel;Windows
+Microsoft;Ultrabook;8;1.25;1;7373;0;200.842559936957;Intel Core i7;0;256;Intel;Windows
+HP;Notebook;8;2.5;0;2623;0;106.113062142692;Intel Core i3;0;256;Intel;Windows
+Acer;Notebook;4;2.23;0;2230;0;141.211998082198;Intel Core i3;1000;0;Nvidia;Windows
+Acer;Netbook;4;1.4;0;1783;0;135.094211192562;Other Intel Processor;0;128;Intel;Windows
+Asus;Notebook;8;2.37;0;3070;0;141.211998082198;Intel Core i5;1000;0;Intel;Windows
+Lenovo;Notebook;8;1.5;0;3275;1;157.350512148735;Intel Core i7;0;512;AMD;Others/No OS/Linux
+Lenovo;Notebook;8;2.67;0;8566;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Asus;Notebook;4;2;0;1246;0;100.454669861136;Other Intel Processor;500;0;Intel;Windows
+Acer;Notebook;4;2.2;0;1922;0;100.454669861136;Intel Core i3;500;0;Nvidia;Windows
+Dell;Notebook;8;2.02;0;3111;0;141.211998082198;Intel Core i5;2000;0;AMD;Windows
+HP;Gaming;12;3.78;0;6963;1;127.335674571231;Intel Core i7;1000;0;Nvidia;Windows
+Lenovo;Ultrabook;12;1.4;0;7615;1;209.80068286498;Intel Core i7;0;256;Intel;Windows
+HP;2 in 1 Convertible;8;1.29;1;8193;1;331.264236102601;Intel Core i7;0;512;Intel;Windows
+HP;Notebook;8;1.9;0;4730;0;141.211998082198;Intel Core i5;500;0;AMD;Windows
+Google;Ultrabook;8;1.1;1;5226;0;234.507400030178;Intel Core i5;0;128;Intel;Others/No OS/Linux
+Dell;Ultrabook;8;1.42;1;7549;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Asus;Notebook;12;2.06;0;5324;1;282.423996164397;Intel Core i7;0;128;Intel;Windows
+Dell;Notebook;8;1.79;0;3033;0;111.935203559552;Intel Core i3;0;128;Intel;Windows
+Dell;Workstation;8;1.78;0;9869;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;Notebook;8;1.7;0;5590;0;157.350512148735;Intel Core i5;0;180;Intel;Windows
+Dell;Notebook;8;2.2;0;2766;0;141.211998082198;Intel Core i5;1000;0;AMD;Windows
+Toshiba;Notebook;8;1.05;0;6853;1;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Dell;Notebook;8;2.16;0;5172;1;141.211998082198;Intel Core i7;0;512;Nvidia;Windows
+Dell;Notebook;4;2.18;0;2404;0;100.454669861136;Intel Core i3;1000;0;Intel;Windows
+HP;Notebook;4;1.49;0;2975;1;165.6321180513;Intel Core i5;0;128;Intel;Windows
+Chuwi;Notebook;4;1.89;0;1020;0;141.211998082198;Other Intel Processor;0;0;Intel;Windows
+Lenovo;Notebook;4;2.3;0;2316;0;100.454669861136;Intel Core i3;0;128;Intel;Windows
+Lenovo;Notebook;8;1.75;0;4299;1;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Dell;Workstation;16;2.17;0;9582;1;141.211998082198;Intel Core i7;0;512;Nvidia;Windows
+Dell;Notebook;16;2.06;0;7783;0;141.211998082198;Intel Core i7;0;512;Nvidia;Windows
+Lenovo;Ultrabook;16;1.36;0;7369;1;176.232573606583;Intel Core i7;0;512;Intel;Windows
+Asus;Ultrabook;16;0.91;0;7992;0;176.232573606583;Intel Core i7;0;512;Intel;Windows
+Lenovo;Notebook;8;2.3;0;4148;1;141.211998082198;Intel Core i5;0;256;Nvidia;Windows
+Toshiba;Ultrabook;32;1.05;1;11472;0;165.6321180513;Intel Core i7;0;512;Intel;Windows
+Asus;Gaming;8;1.99;0;5533;0;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+Acer;Notebook;8;2.2;0;2373;0;100.454669861136;AMD Processor;1000;0;AMD;Windows
+Asus;Gaming;24;4.33;1;5201;1;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;Ultrabook;8;1.3;0;4504;1;125.367427986698;Intel Core i5;0;180;Intel;Windows
+Lenovo;Notebook;8;2.17;0;3684;0;141.211998082198;Intel Core i7;0;256;Intel;Windows
+HP;Notebook;8;1.48;0;7168;0;157.350512148735;Intel Core i7;0;1000;Intel;Windows
+Lenovo;Notebook;8;1.4;0;3889;1;165.6321180513;Intel Core i3;0;256;Intel;Windows
+Lenovo;Notebook;8;2.3;0;3734;1;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Asus;Netbook;4;1.2;0;1393;0;135.094211192562;Other Intel Processor;0;0;Intel;Windows
+HP;Notebook;8;1.91;0;2537;0;100.454669861136;Intel Core i5;0;256;AMD;Windows
+Lenovo;2 in 1 Convertible;8;1.4;1;6553;1;158.482530221748;Intel Core i5;0;256;Intel;Windows
+Lenovo;Notebook;4;2.1;0;1225;0;111.935203559552;Other Intel Processor;500;0;Intel;Windows
+Lenovo;Netbook;4;1.25;0;1086;0;135.094211192562;Other Intel Processor;0;16;Intel;Others/No OS/Linux
+Lenovo;Notebook;8;1.44;0;3889;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Asus;Notebook;8;2;0;5017;0;141.211998082198;Intel Core i7;0;256;Intel;Windows
+Acer;Notebook;4;2.2;0;2512;1;141.211998082198;Intel Core i5;1000;0;Nvidia;Windows
+HP;Ultrabook;8;1.34;0;5422;1;165.6321180513;Intel Core i7;0;512;Intel;Windows
+Lenovo;Gaming;8;2.4;0;4709;1;141.211998082198;Intel Core i7;0;256;Nvidia;Others/No OS/Linux
+Dell;Ultrabook;8;1.29;1;3685;1;165.6321180513;Intel Core i5;0;128;Intel;Windows
+Acer;Notebook;4;2.2;0;2619;0;141.211998082198;Intel Core i7;500;0;Nvidia;Windows
+Dell;Notebook;8;2.18;0;3426;0;141.211998082198;Intel Core i5;1000;0;Intel;Windows
+Dell;Notebook;16;2.2;0;4997;0;141.211998082198;Intel Core i7;0;256;AMD;Windows
+Xiaomi;Notebook;16;1.95;0;5738;1;141.211998082198;Intel Core i7;0;256;Nvidia;Others/No OS/Linux
+Asus;Netbook;2;1.1;0;1004;0;135.094211192562;Other Intel Processor;0;0;Intel;Windows
+HP;Notebook;4;2.04;1;2137;0;100.454669861136;Intel Core i5;1000;0;Intel;Windows
+Asus;Gaming;24;2.24;0;12164;0;141.211998082198;Intel Core i7;0;512;Nvidia;Windows
+HP;Notebook;8;2.04;0;3644;0;141.211998082198;Intel Core i5;0;256;Nvidia;Windows
+Asus;Gaming;16;3;0;6164;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;Gaming;8;3.2;0;5734;1;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+HP;Ultrabook;8;1.32;0;5734;1;165.6321180513;Intel Core i7;0;256;Intel;Windows
+Dell;Notebook;8;1.64;0;5245;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;4;1.63;0;2824;0;100.454669861136;Intel Core i3;0;128;Intel;Windows
+Dell;Notebook;8;2.8;0;3644;1;127.335674571231;Intel Core i5;0;128;AMD;Others/No OS/Linux
+Lenovo;Notebook;8;2.02;0;5492;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Lenovo;Notebook;4;2.2;0;3275;0;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+Lenovo;Notebook;8;2.2;0;1881;0;100.454669861136;Intel Core i3;2000;0;Nvidia;Others/No OS/Linux
+Dell;Notebook;4;2.3;0;2398;0;141.211998082198;Intel Core i5;500;0;AMD;Windows
+Dell;Notebook;8;1.9;0;5644;0;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Dell;Gaming;16;4.42;0;12348;1;127.335674571231;Intel Core i7;0;128;Nvidia;Windows
+Toshiba;Notebook;8;2;0;3525;1;141.211998082198;Intel Core i5;500;0;Intel;Windows
+Asus;Notebook;8;2;0;5324;1;282.423996164397;Intel Core i7;0;256;Nvidia;Windows
+Mediacom;Notebook;4;1.2;0;1512;1;165.6321180513;Other Intel Processor;0;32;Intel;Windows
+Asus;Gaming;8;2.3;0;6758;1;141.211998082198;Intel Core i5;0;128;Nvidia;Windows
+Dell;Notebook;8;1.93;0;5611;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Dell;Notebook;8;2.2;0;3268;0;141.211998082198;Intel Core i5;0;256;AMD;Windows
+HP;Notebook;4;1.86;0;1635;0;141.211998082198;Other Intel Processor;0;256;Intel;Windows
+HP;Gaming;12;2.62;0;7373;0;127.335674571231;Intel Core i7;1000;0;Nvidia;Windows
+Lenovo;Notebook;8;1.87;0;3521;1;157.350512148735;Intel Core i7;0;256;Nvidia;Windows
+Dell;Ultrabook;8;1.2;1;5734;0;276.053530085501;Intel Core i7;0;256;Intel;Windows
+Dell;Notebook;4;1.6;0;3016;0;157.350512148735;Intel Core i3;0;128;Intel;Windows
+HP;Ultrabook;8;1.34;0;4693;1;276.053530085501;Intel Core i7;0;256;Intel;Windows
+Acer;Gaming;8;2.4;0;3271;0;141.211998082198;Intel Core i5;1000;0;Nvidia;Others/No OS/Linux
+Asus;Notebook;4;2;0;1430;0;100.454669861136;AMD Processor;500;0;AMD;Windows
+HP;Notebook;4;2.1;0;2891;0;141.211998082198;Intel Core i3;0;128;Intel;Windows
+Lenovo;Notebook;4;1.87;0;3217;0;157.350512148735;Intel Core i5;500;0;Intel;Windows
+Lenovo;Notebook;4;2.15;0;1895;0;141.211998082198;Intel Core i5;1000;0;Intel;Others/No OS/Linux
+HP;Notebook;4;1.86;0;1627;0;141.211998082198;Intel Core i3;500;0;Intel;Windows
+Lenovo;Notebook;8;1.99;0;7086;1;141.211998082198;Intel Core i7;0;512;Intel;Windows
+Lenovo;Notebook;4;2.2;0;2045;0;141.211998082198;Intel Core i3;0;128;Intel;Windows
+Dell;Notebook;8;1.9;0;4578;0;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Dell;Gaming;16;4.42;0;11062;1;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+HP;Notebook;8;2.65;0;2230;0;106.113062142692;Intel Core i3;1000;0;Intel;Windows
+HP;Notebook;8;2.63;0;5246;0;127.335674571231;Intel Core i7;1000;0;Nvidia;Windows
+Asus;Notebook;4;2;0;918;0;100.454669861136;Other Intel Processor;500;0;Intel;Others/No OS/Linux
+Mediacom;Notebook;4;1.35;0;1045;1;165.6321180513;Other Intel Processor;0;0;Intel;Windows
+Lenovo;Notebook;6;2.8;0;3889;0;106.113062142692;Intel Core i7;0;128;Nvidia;Windows
+HP;Notebook;6;1.91;0;2332;1;141.211998082198;AMD Processor;0;128;AMD;Windows
+Dell;Notebook;4;2.18;0;2532;0;100.454669861136;Intel Core i3;1000;0;AMD;Windows
+Acer;2 in 1 Convertible;4;1.25;1;1430;1;189.905790524336;Other Intel Processor;0;0;Intel;Windows
+Lenovo;Notebook;4;2.05;0;2582;0;141.211998082198;Intel Core i3;0;128;Intel;Windows
+HP;Ultrabook;16;1.16;1;8053;1;276.053530085501;Other Intel Processor;0;512;Intel;Windows
+Lenovo;Notebook;8;3.4;0;12291;1;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Asus;Notebook;8;2.5;0;3439;0;141.211998082198;Intel Core i5;0;128;Nvidia;Windows
+Dell;Ultrabook;8;1.21;1;6553;1;331.264236102601;Intel Core i5;0;128;Intel;Windows
+Dell;Notebook;4;1.93;0;3930;0;100.454669861136;Intel Core i5;500;0;Intel;Windows
+Fujitsu;Notebook;8;2.2;0;3029;0;100.454669861136;Intel Core i5;1000;0;Intel;Windows
+Lenovo;Notebook;4;2.2;0;1410;0;141.211998082198;Other Intel Processor;500;0;Intel;Windows
+Lenovo;Notebook;4;2.02;0;4057;0;111.935203559552;Intel Core i5;500;0;Intel;Windows
+HP;Workstation;8;3.14;0;7627;0;106.113062142692;Intel Core i5;500;0;Nvidia;Windows
+HP;Notebook;8;1.94;0;1594;0;111.935203559552;Other Intel Processor;2000;0;Intel;Windows
+HP;Notebook;6;1.95;0;2660;1;141.211998082198;AMD Processor;0;256;AMD;Windows
+Lenovo;Notebook;8;2.3;0;3402;0;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Lenovo;Notebook;4;2.05;0;2807;0;141.211998082198;Intel Core i5;500;0;Intel;Windows
+Mediacom;Notebook;4;1.4;0;1021;0;157.350512148735;Other Intel Processor;0;32;Intel;Windows
+Toshiba;Ultrabook;16;1.24;1;7644;0;157.350512148735;Intel Core i7;0;512;Intel;Windows
+Lenovo;Gaming;32;4.6;0;10914;1;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+MSI;Gaming;16;4.14;0;11185;0;127.335674571231;Intel Core i7;0;512;Nvidia;Windows
+Dell;Notebook;8;2.2;0;3070;0;141.211998082198;Intel Core i7;0;256;AMD;Others/No OS/Linux
+Mediacom;Notebook;4;1.45;0;1594;1;157.350512148735;Other Intel Processor;0;32;Intel;Windows
+Dell;Notebook;8;1.9;0;4133;0;100.454669861136;Intel Core i5;500;0;Intel;Windows
+HP;Notebook;4;1.49;0;2947;0;165.6321180513;Intel Core i3;0;128;Intel;Windows
+Dell;Notebook;16;1.93;0;6301;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Dell;Netbook;4;1.26;0;1209;0;135.094211192562;Other Intel Processor;0;0;Intel;Others/No OS/Linux
+MSI;Gaming;16;4.5;0;9627;0;127.335674571231;Intel Core i7;0;128;Nvidia;Windows
+HP;Gaming;16;3.78;0;6139;1;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;Ultrabook;12;1.4;0;6857;1;157.350512148735;Intel Core i7;0;256;Intel;Windows
+Lenovo;Notebook;12;2.2;1;2496;0;100.454669861136;Intel Core i7;1000;0;Intel;Windows
+Asus;Gaming;8;2.73;0;7254;1;127.335674571231;Intel Core i5;0;128;Nvidia;Windows
+Asus;2 in 1 Convertible;8;2.2;1;3029;0;100.454669861136;Intel Core i5;1000;0;Intel;Windows
+Lenovo;Notebook;12;2.2;0;3889;0;141.211998082198;AMD Processor;0;512;AMD;Windows
+Dell;2 in 1 Convertible;4;1.39;1;2471;0;135.094211192562;Other Intel Processor;0;128;Intel;Windows
+Samsung;Notebook;16;2.5;0;6963;0;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+Lenovo;Notebook;4;2.8;0;2168;0;127.335674571231;Intel Core i3;500;0;Intel;Others/No OS/Linux
+Lenovo;Notebook;8;2.29;0;1881;0;100.454669861136;Intel Core i3;1000;0;Intel;Windows
+Lenovo;2 in 1 Convertible;8;1.37;1;8299;1;165.6321180513;Intel Core i7;0;512;Intel;Windows
+Lenovo;Notebook;8;1.7;0;6041;1;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Dell;2 in 1 Convertible;8;1.34;1;6844;0;176.232573606583;Intel Core i5;0;256;Intel;Windows
+Dell;Workstation;8;2.06;1;7226;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+HP;Notebook;8;1.84;0;4996;0;141.211998082198;Intel Core i7;0;256;Intel;Windows
+HP;Notebook;4;2.1;0;2740;0;100.454669861136;Intel Core i3;500;0;Intel;Windows
+Acer;Notebook;4;1.6;0;1348;0;157.350512148735;Other Intel Processor;0;0;Intel;Windows
+MSI;Gaming;16;4.14;0;9013;0;127.335674571231;Intel Core i7;0;128;Nvidia;Windows
+Dell;Notebook;4;2.18;0;1906;0;100.454669861136;Intel Core i3;1000;0;AMD;Others/No OS/Linux
+MSI;Gaming;16;1.8;0;9422;0;282.423996164397;Intel Core i7;0;256;Nvidia;Windows
+Toshiba;Notebook;8;2.2;0;5734;1;141.211998082198;Intel Core i7;0;256;Intel;Windows
+Lenovo;Notebook;6;2.4;0;2312;0;141.211998082198;Intel Core i5;1000;0;Intel;Windows
+Lenovo;2 in 1 Convertible;8;2;1;5324;1;141.211998082198;Intel Core i7;0;256;Intel;Windows
+Acer;Notebook;4;1.6;0;1430;0;111.935203559552;Other Intel Processor;0;0;Intel;Windows
+Lenovo;Notebook;32;2.5;0;20078;1;282.423996164397;Other Intel Processor;0;1000;Nvidia;Windows
+Dell;Gaming;16;2.59;0;3603;0;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+Dell;Notebook;4;2.18;0;1819;0;100.454669861136;Intel Core i3;1000;0;Intel;Others/No OS/Linux
+Dell;Notebook;4;2.25;0;1471;0;100.454669861136;Intel Core i3;1000;0;Intel;Others/No OS/Linux
+Dell;Notebook;4;1.93;0;3562;0;100.454669861136;Intel Core i5;500;0;Intel;Others/No OS/Linux
+Asus;Gaming;8;3;0;4787;0;127.335674571231;Intel Core i7;0;128;Nvidia;Windows
+Dell;Notebook;4;2.18;0;2332;0;141.211998082198;Intel Core i5;0;128;AMD;Others/No OS/Linux
+HP;Ultrabook;8;1.84;0;5693;0;141.211998082198;Intel Core i7;0;512;Intel;Windows
+MSI;Gaming;16;2.94;0;9295;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Acer;2 in 1 Convertible;4;1.25;1;1553;1;135.094211192562;Other Intel Processor;0;0;Intel;Others/No OS/Linux
+HP;Notebook;8;2.31;0;4607;0;111.935203559552;Intel Core i5;0;256;Intel;Windows
+Lenovo;Notebook;8;1.65;0;6004;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Dell;Notebook;4;2.2;0;3180;0;141.211998082198;Intel Core i5;1000;0;AMD;Windows
+Fujitsu;Notebook;8;2.2;0;3275;0;100.454669861136;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;4;1.88;0;3820;0;100.454669861136;Intel Core i5;500;0;Intel;Windows
+Lenovo;Notebook;8;2.2;0;3685;0;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+Mediacom;Notebook;2;1.4;0;980;0;157.350512148735;Other Intel Processor;0;0;Intel;Windows
+Lenovo;Notebook;4;2.2;0;1918;0;141.211998082198;Intel Core i5;0;128;Intel;Others/No OS/Linux
+Asus;2 in 1 Convertible;6;1.5;1;2619;0;165.6321180513;Intel Core i5;1000;0;Intel;Windows
+Dell;Notebook;8;2;0;7459;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Asus;Ultrabook;16;1.1;0;7787;0;157.350512148735;Intel Core i7;0;512;Intel;Windows
+Dell;Gaming;16;2.62;0;6062;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;Notebook;4;1.8;0;3398;0;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Lenovo;Notebook;4;2.2;0;2373;0;141.211998082198;Intel Core i3;1000;0;Nvidia;Windows
+Asus;Notebook;8;2;0;1635;0;100.454669861136;Other Intel Processor;1000;0;Intel;Windows
+Asus;Notebook;8;1.99;0;3716;0;141.211998082198;Intel Core i5;1000;0;Nvidia;Windows
+Dell;Ultrabook;8;1.23;1;7660;0;276.053530085501;Intel Core i5;0;256;Intel;Windows
+Lenovo;Notebook;2;1.42;0;1021;0;111.935203559552;Other Intel Processor;0;0;Intel;Windows
+Lenovo;2 in 1 Convertible;8;1.37;1;7203;1;165.6321180513;Intel Core i7;0;256;Intel;Windows
+Dell;Notebook;16;2.06;1;9832;0;282.423996164397;Intel Core i7;0;1000;Nvidia;Windows
+Lenovo;Gaming;8;2.5;0;4545;1;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+HP;Notebook;8;2.6;0;2135;0;107.985645592269;AMD Processor;1000;0;AMD;Windows
+Lenovo;Ultrabook;16;1.14;0;10041;1;157.350512148735;Intel Core i7;0;512;Intel;Windows
+Asus;Gaming;8;2.5;0;4791;1;141.211998082198;Intel Core i7;1000;0;Nvidia;Others/No OS/Linux
+Acer;Notebook;4;2.4;0;1844;0;100.454669861136;Intel Core i3;500;0;Intel;Windows
+Lenovo;Notebook;4;1.43;0;1123;0;111.935203559552;Other Intel Processor;0;0;Intel;Windows
+Acer;Ultrabook;8;1.8;0;3766;1;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Razer;Gaming;16;1.95;0;10652;0;157.350512148735;Intel Core i7;0;256;Nvidia;Windows
+Toshiba;Notebook;8;1.2;0;4971;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Lenovo;Ultrabook;8;1.36;0;6492;1;176.232573606583;Intel Core i7;0;256;Intel;Windows
+Asus;Gaming;32;3.8;0;11472;1;127.335674571231;Intel Core i7;0;512;Nvidia;Windows
+Acer;Gaming;8;2.4;0;2906;0;141.211998082198;Intel Core i5;1000;0;Nvidia;Others/No OS/Linux
+Dell;Ultrabook;8;1.2;0;5942;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+MSI;Gaming;8;2.2;0;4885;0;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+HP;Notebook;4;1.86;0;1496;0;100.454669861136;Intel Core i3;500;0;Intel;Others/No OS/Linux
+Toshiba;Notebook;8;2;0;4361;1;141.211998082198;Intel Core i5;500;0;Intel;Windows
+Dell;Notebook;8;2.2;0;3766;0;141.211998082198;Intel Core i7;0;256;AMD;Windows
+Dell;Notebook;16;2.2;0;4652;0;141.211998082198;Intel Core i7;0;256;AMD;Windows
+Lenovo;Gaming;8;3.31;0;4902;1;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+Dell;Gaming;32;4.42;0;12899;1;254.671349142462;Intel Core i7;0;512;Nvidia;Windows
+Dell;Notebook;8;1.56;0;5037;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Lenovo;Notebook;4;2.2;0;1717;0;100.454669861136;Other Intel Processor;500;0;Intel;Windows
+Lenovo;Notebook;4;2.2;0;2193;0;141.211998082198;Intel Core i5;500;0;Intel;Windows
+HP;Notebook;6;2.04;0;2209;0;141.211998082198;Intel Core i3;1000;0;AMD;Windows
+MSI;Gaming;8;2.7;0;6093;0;127.335674571231;Intel Core i7;0;128;Nvidia;Windows
+Toshiba;Notebook;4;2.1;0;2041;0;100.454669861136;Intel Core i3;0;128;Intel;Windows
+Dell;Notebook;8;2.06;0;3914;0;141.211998082198;Intel Core i5;1000;0;Intel;Windows
+HP;Notebook;8;2.1;0;3053;0;141.211998082198;Intel Core i7;1000;0;AMD;Windows
+Toshiba;Notebook;8;2;0;5156;1;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Acer;Notebook;4;2.1;0;1689;0;100.454669861136;Intel Core i3;0;128;Intel;Others/No OS/Linux
+Microsoft;Ultrabook;8;1.252;1;7655;0;200.842559936957;Intel Core i7;0;256;Intel;Windows
+Lenovo;Notebook;8;1.9;0;3352;0;141.211998082198;Intel Core i5;0;128;AMD;Windows
+Lenovo;2 in 1 Convertible;8;1.3;1;4238;1;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Lenovo;Notebook;4;2.2;0;1430;0;100.454669861136;AMD Processor;0;128;AMD;Windows
+HP;2 in 1 Convertible;4;1.63;1;2865;1;157.350512148735;Intel Core i3;0;128;Nvidia;Windows
+MSI;Gaming;16;2.4;0;5303;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Asus;Ultrabook;8;1.1;0;4652;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+HP;2 in 1 Convertible;8;1.4;1;2029;0;135.094211192562;Other Intel Processor;0;0;Intel;Others/No OS/Linux
+LG;Ultrabook;8;1.09;0;9422;1;141.211998082198;Intel Core i7;0;512;Intel;Windows
+Acer;Gaming;16;2.5;0;5324;0;141.211998082198;Intel Core i5;0;256;Nvidia;Windows
+MSI;Gaming;8;2.2;0;4090;0;141.211998082198;Intel Core i5;0;256;Nvidia;Windows
+Asus;Notebook;4;1.86;0;1717;0;100.454669861136;Other Intel Processor;0;128;Intel;Windows
+Dell;Gaming;16;3.21;0;8406;0;141.211998082198;Intel Core i5;0;128;Nvidia;Windows
+HP;Notebook;4;2.5;0;2865;1;127.335674571231;Intel Core i3;0;256;AMD;Windows
+Lenovo;2 in 1 Convertible;8;1.19;1;6144;1;165.6321180513;Intel Core i7;0;512;Intel;Windows
+Dell;Gaming;16;3.49;0;11532;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+HP;Notebook;4;1.86;0;2511;0;100.454669861136;Intel Core i5;500;0;AMD;Windows
+Dell;Notebook;4;2.2;0;2236;0;100.454669861136;Intel Core i3;1000;0;AMD;Windows
+HP;Notebook;6;2.65;0;2332;1;127.335674571231;AMD Processor;2000;0;AMD;Windows
+Lenovo;Notebook;4;2.1;0;1303;0;100.454669861136;Other Intel Processor;500;0;Intel;Windows
+Acer;Notebook;4;1.45;0;1537;0;111.935203559552;Other Intel Processor;0;0;Intel;Others/No OS/Linux
+Lenovo;Notebook;4;1.7;0;2865;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+HP;Workstation;8;3.14;0;7820;0;127.335674571231;Intel Core i7;500;0;Nvidia;Windows
+Lenovo;2 in 1 Convertible;8;1.42;1;10615;0;209.80068286498;Intel Core i7;0;256;Intel;Windows
+Toshiba;Notebook;8;1.5;0;3988;1;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Acer;Netbook;4;1.4;0;1102;0;135.094211192562;Other Intel Processor;0;0;Intel;Windows
+Lenovo;2 in 1 Convertible;16;1.38;1;7168;0;157.350512148735;Intel Core i7;0;512;Intel;Windows
+Asus;2 in 1 Convertible;4;1.2;1;2742;0;176.232573606583;Other Intel Processor;0;0;Intel;Others/No OS/Linux
+Toshiba;Ultrabook;16;1.36;1;7693;0;165.6321180513;Intel Core i7;0;512;Intel;Windows
+HP;Notebook;4;2.1;0;2824;1;141.211998082198;Intel Core i7;500;0;AMD;Windows
+Dell;Gaming;8;2.56;0;3357;0;141.211998082198;Intel Core i5;1000;0;Nvidia;Windows
+Lenovo;Notebook;4;2.2;0;1635;0;141.211998082198;AMD Processor;0;256;AMD;Windows
+Lenovo;Notebook;8;2.2;0;1758;0;100.454669861136;AMD Processor;1000;0;AMD;Windows
+Lenovo;Notebook;4;2.1;0;2547;0;141.211998082198;Intel Core i5;1000;0;Intel;Windows
+Lenovo;Notebook;4;1.9;0;1844;0;100.454669861136;Intel Core i3;500;0;Intel;Others/No OS/Linux
+Dell;Notebook;8;2.18;0;3258;0;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Acer;2 in 1 Convertible;8;1.6;1;4094;1;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Lenovo;Workstation;16;2.18;0;7603;0;141.211998082198;Intel Core i7;0;512;Nvidia;Windows
+Lenovo;Notebook;8;1.8;0;4881;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;6;2.71;0;2685;1;127.335674571231;AMD Processor;2000;0;AMD;Windows
+Lenovo;Gaming;8;2.5;0;5119;1;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+Dell;Notebook;8;1.64;0;4463;0;157.350512148735;Intel Core i5;0;256;Nvidia;Others/No OS/Linux
+Dell;Notebook;8;1.98;0;2975;0;141.211998082198;Intel Core i5;1000;0;Intel;Others/No OS/Linux
+Asus;Notebook;4;1.5;0;1221;0;157.350512148735;Other Intel Processor;0;0;Intel;Windows
+Dell;Notebook;16;1.93;0;5847;0;141.211998082198;Intel Core i5;0;512;Intel;Windows
+Lenovo;Notebook;8;1.87;0;3513;1;157.350512148735;Intel Core i5;0;256;Nvidia;Windows
+Dell;Notebook;8;1.9;0;4832;0;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Lenovo;Notebook;4;2.19;0;1221;0;100.454669861136;AMD Processor;500;0;AMD;Windows
+Mediacom;Notebook;4;1.4;0;1086;1;161.725390835256;Other Intel Processor;32;0;Intel;Windows
+HP;Notebook;8;2.63;0;4918;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;Ultrabook;8;1.17;0;6913;1;209.80068286498;Intel Core i7;0;512;Intel;Windows
+HP;2 in 1 Convertible;8;1.58;1;3429;1;117.826530062686;Intel Core i5;0;256;Intel;Windows
+Lenovo;Ultrabook;8;1.32;0;6144;1;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Dell;Gaming;32;4.36;0;14998;0;254.671349142462;Intel Core i7;0;1000;Nvidia;Windows
+MSI;Gaming;8;2.7;0;5527;0;127.335674571231;Intel Core i7;0;128;Nvidia;Windows
+Lenovo;Notebook;4;1.9;0;2008;0;100.454669861136;Intel Core i5;1000;0;Intel;Others/No OS/Linux
+Dell;Notebook;8;2.2;0;2947;0;141.211998082198;Intel Core i5;0;128;AMD;Windows
+Dell;2 in 1 Convertible;4;1.71;1;2660;0;165.6321180513;Intel Core i3;1000;0;Intel;Windows
+Dell;Notebook;8;2.32;0;2416;0;100.454669861136;Intel Core i5;1000;0;AMD;Others/No OS/Linux
+HP;Notebook;4;2.1;0;2004;0;141.211998082198;AMD Processor;1000;0;AMD;Windows
+Acer;Gaming;16;4.2;0;7931;1;127.335674571231;Intel Core i7;0;128;Nvidia;Windows
+Dell;Notebook;12;2.25;0;2660;0;100.454669861136;Intel Core i5;1000;0;Intel;Windows
+HP;Notebook;6;2.1;0;2664;0;141.211998082198;AMD Processor;0;128;AMD;Windows
+Acer;Notebook;4;2.4;0;2291;0;100.454669861136;Intel Core i5;500;0;Intel;Windows
+Lenovo;Notebook;8;1.44;0;3935;1;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Lenovo;Notebook;4;1.85;0;3193;0;141.211998082198;Intel Core i7;1000;0;Intel;Windows
+HP;Workstation;16;2.6;0;9914;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Dell;2 in 1 Convertible;8;1.55;1;2701;0;165.6321180513;Intel Core i5;1000;0;Intel;Windows
+MSI;Gaming;16;1.8;0;8584;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Acer;Notebook;4;2.4;0;1684;0;100.454669861136;Intel Core i3;500;0;Intel;Windows
+Dell;Notebook;8;2;0;4947;0;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+Dell;Notebook;8;2;0;2725;0;100.454669861136;Intel Core i3;0;256;Intel;Windows
+Toshiba;Notebook;8;1.25;1;6291;1;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Lenovo;2 in 1 Convertible;8;1.7;1;4094;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Lenovo;Workstation;16;2.5;0;13521;1;282.423996164397;Intel Core i7;0;1000;Nvidia;Windows
+Acer;Notebook;2;1.68;0;1352;0;111.935203559552;Other Intel Processor;0;0;Intel;Others/No OS/Linux
+Samsung;Ultrabook;16;0.81;0;6758;0;165.6321180513;Intel Core i7;0;256;Intel;Windows
+HP;Notebook;8;1.86;0;2209;0;141.211998082198;Intel Core i3;0;256;Intel;Windows
+Dell;Notebook;8;1.6;0;4618;0;111.935203559552;Intel Core i5;0;256;Intel;Windows
+HP;Workstation;16;3;0;17988;1;127.335674571231;Other Intel Processor;0;256;Nvidia;Windows
+Lenovo;Netbook;4;1.4;1;1947;0;135.094211192562;Other Intel Processor;0;128;Intel;Windows
+HP;Notebook;8;1.84;0;7787;0;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Asus;Notebook;4;2.45;0;2373;0;100.454669861136;Intel Core i5;1000;0;Nvidia;Others/No OS/Linux
+Lenovo;Ultrabook;4;1.7;0;4492;0;157.350512148735;Intel Core i5;0;180;Intel;Windows
+Asus;Notebook;4;2.37;0;3483;0;100.454669861136;Intel Core i7;0;256;Intel;Windows
+Lenovo;2 in 1 Convertible;8;1.3;1;4914;1;276.053530085501;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;8;2.2;0;4504;1;141.211998082198;Intel Core i5;0;128;Nvidia;Windows
+HP;Workstation;8;2.59;0;6398;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Dell;Gaming;16;4.42;0;11758;1;282.423996164397;Intel Core i7;0;256;Nvidia;Windows
+Acer;Notebook;4;2.1;0;2455;0;100.454669861136;Intel Core i5;0;256;Intel;Windows
+Lenovo;Gaming;8;2.5;0;4295;1;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+Dell;Ultrabook;16;1.18;0;7619;0;176.232573606583;Intel Core i7;0;256;Intel;Windows
+Google;Ultrabook;8;1.1;1;6390;0;234.507400030178;Intel Core i5;0;256;Intel;Others/No OS/Linux
+Asus;Ultrabook;8;1.2;0;4627;1;276.053530085501;Intel Core i5;0;256;Intel;Windows
+Dell;Notebook;4;1.65;0;3480;0;117.826530062686;Intel Core i3;500;0;Intel;Windows
+Acer;Notebook;4;1.6;0;2684;0;117.826530062686;Intel Core i5;0;128;Intel;Windows
+Asus;Notebook;4;2.8;0;1928;0;90.583401724493;Other Intel Processor;1000;0;Nvidia;Windows
+Dell;Gaming;16;2.72;1;4504;1;282.423996164397;Intel Core i7;0;128;Nvidia;Windows
+Samsung;Ultrabook;8;1.31;1;6553;0;165.6321180513;Intel Core i7;0;256;Intel;Windows
+Acer;Notebook;4;2.1;0;1221;0;100.454669861136;Other Intel Processor;1000;0;Intel;Others/No OS/Linux
+Dell;Notebook;16;2.3;0;4841;0;141.211998082198;Intel Core i7;0;256;AMD;Windows
+Samsung;2 in 1 Convertible;16;1.71;1;7373;0;146.860478005486;Intel Core i7;0;256;AMD;Windows
+Toshiba;Notebook;4;1.75;0;4180;1;111.935203559552;Intel Core i5;0;128;Intel;Windows
+Dell;Gaming;8;2.62;0;4504;0;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+HP;Ultrabook;4;1.26;0;5098;0;125.367427986698;Intel Core i5;0;256;Intel;Windows
+Asus;2 in 1 Convertible;12;2.3;1;3439;0;141.211998082198;Intel Core i7;2000;0;Nvidia;Windows
+Lenovo;Notebook;16;2.5;0;9713;0;282.423996164397;Intel Core i7;0;512;Nvidia;Windows
+Acer;Notebook;4;1.8;0;2607;1;157.350512148735;Intel Core i3;0;128;Intel;Windows
+Razer;Gaming;16;1.95;0;11881;0;157.350512148735;Intel Core i7;0;512;Nvidia;Windows
+Asus;Notebook;8;2;0;2385;0;141.211998082198;Other Intel Processor;0;128;Intel;Windows
+Dell;Gaming;32;4.42;0;14709;1;127.335674571231;Intel Core i7;0;1000;Nvidia;Windows
+Asus;Gaming;16;4.3;0;9631;1;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Toshiba;Ultrabook;16;1.47;0;7230;1;157.350512148735;Intel Core i7;0;512;Nvidia;Windows
+Lenovo;Notebook;8;2.2;0;1348;0;100.454669861136;Other Intel Processor;1000;0;Intel;Others/No OS/Linux
+Lenovo;Ultrabook;16;1.7;0;9422;0;157.350512148735;Intel Core i7;0;512;Intel;Windows
+MSI;Gaming;16;1.6;0;7750;1;157.350512148735;Intel Core i7;0;256;Nvidia;Windows
+MSI;Gaming;8;2.2;0;4463;0;141.211998082198;Intel Core i5;0;128;Nvidia;Windows
+Lenovo;Gaming;4;2.4;0;4094;1;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+Acer;Gaming;16;4.2;0;9422;1;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Dell;Gaming;8;2.62;0;4037;0;141.211998082198;Intel Core i5;0;256;Nvidia;Windows
+Asus;Gaming;8;2.24;0;5488;0;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+Vero;Notebook;4;1.22;0;832;0;157.350512148735;Other Intel Processor;0;0;Intel;Windows
+Lenovo;2 in 1 Convertible;8;1.37;1;8074;1;165.6321180513;Intel Core i7;0;512;Intel;Windows
+Lenovo;2 in 1 Convertible;8;2.08;1;3930;0;141.211998082198;Intel Core i5;0;256;AMD;Windows
+Apple;Ultrabook;8;0.92;0;4775;1;226.415547169358;Other Intel Processor;0;0;Intel;Mac
+Lenovo;2 in 1 Convertible;8;1.42;1;9549;1;209.80068286498;Intel Core i5;0;256;Intel;Windows
+Asus;Notebook;4;1.63;0;1225;0;111.935203559552;Other Intel Processor;0;0;Intel;Windows
+Dell;Notebook;8;1.95;0;3320;0;100.454669861136;Intel Core i5;0;128;Intel;Windows
+Lenovo;2 in 1 Convertible;8;1.38;1;5529;1;158.482530221748;Intel Core i7;0;256;Intel;Windows
+Dell;Notebook;8;2;0;3029;0;141.211998082198;Intel Core i3;0;256;AMD;Windows
+HP;Workstation;8;3.14;0;8463;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Asus;Notebook;8;2.37;0;4504;0;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Dell;Ultrabook;8;1.29;0;6144;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Dell;Notebook;8;2.06;1;7168;0;282.423996164397;Intel Core i5;0;256;Nvidia;Windows
+Dell;Netbook;4;1.63;0;3049;0;135.094211192562;Other Intel Processor;0;128;Intel;Windows
+HP;Netbook;8;1.26;0;5693;0;125.367427986698;Intel Core i5;0;256;Intel;Windows
+Toshiba;Notebook;4;2.1;0;3197;0;100.454669861136;Intel Core i5;500;0;Intel;Windows
+HP;Notebook;8;2.04;0;2578;0;100.454669861136;AMD Processor;2000;0;AMD;Windows
+Dell;Gaming;16;2.62;0;6881;0;282.423996164397;Intel Core i7;0;512;Nvidia;Windows
+Lenovo;Notebook;4;2.4;0;2496;0;141.211998082198;Intel Core i5;1000;0;Nvidia;Windows
+HP;Gaming;12;3.74;0;7168;1;127.335674571231;Intel Core i7;1000;0;AMD;Windows
+MSI;Gaming;16;2.9;0;9898;0;127.335674571231;Intel Core i7;0;512;Nvidia;Windows
+Samsung;Ultrabook;8;0.81;0;6144;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Dell;Notebook;8;1.98;0;3939;0;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+Dell;Notebook;8;2.18;0;3237;0;141.211998082198;Intel Core i5;0;256;AMD;Windows
+Lenovo;Ultrabook;8;1.32;0;7619;0;157.350512148735;Intel Core i7;0;256;Intel;Windows
+Razer;Ultrabook;16;1.29;1;7373;1;352.465147213167;Intel Core i7;0;512;Intel;Windows
+HP;Netbook;4;1.23;0;1578;0;135.094211192562;Other Intel Processor;0;0;Intel;Others/No OS/Linux
+Dell;Gaming;16;4.36;0;10267;1;127.335674571231;Intel Core i7;0;128;Nvidia;Windows
+Dell;Notebook;4;1.76;0;3094;0;111.935203559552;Intel Core i5;500;0;Intel;Windows
+Lenovo;Notebook;4;2.1;0;2008;0;100.454669861136;Intel Core i3;500;0;Intel;Windows
+Toshiba;Ultrabook;4;1.25;0;4467;0;111.935203559552;Intel Core i5;0;128;Intel;Windows
+Lenovo;Ultrabook;8;1.13;0;10242;1;157.350512148735;Intel Core i7;0;512;Intel;Windows
+MSI;Gaming;8;2.4;0;4914;0;141.211998082198;Intel Core i5;0;256;Nvidia;Windows
+Lenovo;Ultrabook;8;1.13;0;7685;1;157.350512148735;Intel Core i5;0;0;Intel;Windows
+Toshiba;Notebook;4;1.75;0;2045;0;111.935203559552;Other Intel Processor;0;128;Intel;Windows
+Asus;2 in 1 Convertible;8;1.1;1;5566;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Dell;Notebook;4;1.76;0;2398;0;111.935203559552;Intel Core i3;500;0;Intel;Windows
+Acer;Netbook;4;1.35;0;1455;1;135.094211192562;Other Intel Processor;0;0;Intel;Others/No OS/Linux
+Acer;Notebook;8;1.5;0;2537;1;157.350512148735;Intel Core i3;0;128;Intel;Windows
+Razer;Gaming;32;3.49;1;22537;0;254.671349142462;Intel Core i7;0;512;Nvidia;Windows
+Lenovo;Ultrabook;16;1.1;0;8603;1;209.80068286498;Intel Core i7;0;512;Intel;Windows
+Asus;Notebook;4;2.1;0;2127;0;141.211998082198;Intel Core i5;1000;0;Nvidia;Others/No OS/Linux
+Lenovo;Notebook;8;1.7;0;4861;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Lenovo;Notebook;8;1.32;0;6762;1;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Dell;Gaming;16;3.21;0;11372;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Asus;Gaming;16;2.9;0;9914;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Toshiba;Notebook;4;2;0;2742;0;100.454669861136;Intel Core i3;500;0;Intel;Windows
+Lenovo;Notebook;4;1.5;0;1332;0;111.935203559552;Other Intel Processor;0;0;Intel;Others/No OS/Linux
+Asus;Notebook;8;2.3;0;2418;0;141.211998082198;Intel Core i5;128;0;Intel;Windows
+Asus;Gaming;16;2.73;0;7373;0;127.335674571231;Intel Core i7;0;512;Nvidia;Windows
+Dell;Gaming;32;4.42;0;12594;1;127.335674571231;Intel Core i7;0;512;Nvidia;Windows
+HP;Notebook;8;2.63;0;3730;0;106.113062142692;Intel Core i5;1000;0;Nvidia;Windows
+Dell;Notebook;8;2.18;0;2926;0;100.454669861136;Intel Core i5;0;128;Intel;Windows
+HP;Ultrabook;8;1.54;0;7664;0;157.350512148735;Intel Core i7;0;512;Intel;Windows
+Dell;Notebook;4;2.18;0;3029;0;141.211998082198;Intel Core i7;0;256;AMD;Windows
+HP;2 in 1 Convertible;4;1.4;1;2521;0;135.094211192562;Other Intel Processor;0;0;Intel;Others/No OS/Linux
+Asus;Ultrabook;8;1.45;0;4205;1;165.6321180513;Intel Core i5;0;512;Nvidia;Windows
+HP;2 in 1 Convertible;8;1.28;1;9332;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+HP;Ultrabook;8;1.54;0;6017;0;157.350512148735;Intel Core i7;0;512;Intel;Windows
+HP;Notebook;4;1.86;0;1225;0;100.454669861136;Other Intel Processor;0;128;Intel;Others/No OS/Linux
+Asus;Gaming;16;2.1;0;7783;0;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+Dell;Notebook;8;2.83;0;3545;0;127.335674571231;Intel Core i7;1000;0;AMD;Others/No OS/Linux
+Lenovo;Ultrabook;8;1.96;0;7799;1;157.350512148735;Intel Core i7;0;256;Nvidia;Windows
+Asus;Notebook;8;2.3;0;3225;1;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Dell;Notebook;8;1.9;0;3873;0;141.211998082198;Intel Core i5;0;128;Intel;Windows
+Asus;Notebook;4;2;0;1840;0;100.454669861136;Other Intel Processor;1000;0;Intel;Windows
+HP;2 in 1 Convertible;8;1.28;1;10488;0;165.6321180513;Intel Core i7;0;256;Intel;Windows
+Dell;Notebook;8;1.62;1;2660;0;165.6321180513;Intel Core i5;1000;0;Intel;Windows
+Lenovo;Notebook;4;2.2;0;1922;0;141.211998082198;Intel Core i3;1000;0;Intel;Others/No OS/Linux
+Lenovo;Notebook;8;2.3;0;3486;1;141.211998082198;Intel Core i5;1000;0;Intel;Windows
+HP;Notebook;8;1.84;0;5529;0;141.211998082198;Intel Core i5;0;256;AMD;Windows
+Toshiba;Notebook;4;1.05;0;5267;0;165.6321180513;Intel Core i5;0;128;Intel;Windows
+Lenovo;Gaming;8;2.5;0;4168;1;141.211998082198;Intel Core i5;1000;0;Nvidia;Others/No OS/Linux
+Dell;Ultrabook;16;1.29;1;9181;0;276.053530085501;Intel Core i7;0;512;Intel;Windows
+HP;Notebook;4;2.07;0;3730;0;141.211998082198;Intel Core i5;500;0;Intel;Windows
+Toshiba;Ultrabook;8;1.2;0;4488;0;117.826530062686;Intel Core i5;0;256;Intel;Windows
+Lenovo;2 in 1 Convertible;8;1.37;1;7992;1;165.6321180513;Intel Core i7;0;256;Intel;Windows
+Acer;Notebook;8;1.56;0;3697;1;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Dell;Workstation;8;2.23;0;7287;0;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+Lenovo;Notebook;4;2.38;0;4324;0;100.454669861136;Intel Core i5;500;0;Intel;Windows
+Lenovo;Notebook;4;2.2;0;1963;0;141.211998082198;Intel Core i3;1000;0;AMD;Others/No OS/Linux
+Toshiba;Notebook;8;2;0;5689;1;141.211998082198;Intel Core i7;0;256;Intel;Windows
+Lenovo;Notebook;4;1.44;0;3012;1;165.6321180513;Intel Core i3;0;180;Intel;Windows
+Samsung;Ultrabook;16;1.23;0;7578;0;146.860478005486;Intel Core i7;0;256;Nvidia;Windows
+Dell;Ultrabook;8;1.6;0;6926;0;176.232573606583;Intel Core i7;0;256;Intel;Windows
+Asus;Notebook;4;2;0;1635;0;100.454669861136;Other Intel Processor;1000;0;Intel;Others/No OS/Linux
+Xiaomi;Ultrabook;8;1.28;0;3832;1;165.6321180513;Intel Core i5;0;256;Nvidia;Windows
+Dell;Notebook;4;2.18;0;3740;0;141.211998082198;Intel Core i5;0;128;Nvidia;Windows
+HP;Notebook;4;2.04;0;3439;0;141.211998082198;Intel Core i5;0;256;Intel;Windows
+HP;2 in 1 Convertible;4;1.28;1;6967;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+HP;2 in 1 Convertible;4;2.3;1;2807;0;100.454669861136;Intel Core i5;500;0;Intel;Windows
+Asus;Notebook;4;1.65;0;1426;0;111.14133686764;Other Intel Processor;0;0;Intel;Windows
+Lenovo;Notebook;8;2.2;0;2742;1;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+Dell;Notebook;4;2.2;0;1512;0;100.454669861136;Other Intel Processor;500;0;Intel;Windows
+HP;2 in 1 Convertible;4;1.28;1;7373;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Dell;Notebook;4;2.18;0;1868;0;100.454669861136;Intel Core i3;1000;0;AMD;Others/No OS/Linux
+Asus;Gaming;12;2.2;0;5614;0;127.335674571231;Intel Core i5;0;128;Nvidia;Windows
+Acer;Netbook;4;1.25;0;1217;1;135.094211192562;Other Intel Processor;0;0;Intel;Others/No OS/Linux
+Lenovo;Notebook;4;2.8;0;1553;0;106.113062142692;AMD Processor;500;0;AMD;Windows
+HP;Notebook;4;1.95;0;5185;0;157.350512148735;Intel Core i5;0;128;Intel;Windows
+HP;2 in 1 Convertible;16;1.42;1;5734;0;276.053530085501;Intel Core i7;0;256;Intel;Windows
+Samsung;Ultrabook;8;1.17;0;6963;0;146.860478005486;Intel Core i7;0;256;Intel;Windows
+Lenovo;Ultrabook;8;1.32;0;7373;1;157.350512148735;Intel Core i5;0;256;Intel;Windows
+MSI;Gaming;16;2.43;0;10857;1;254.671349142462;Intel Core i7;0;512;Nvidia;Windows
+Toshiba;Notebook;8;1.05;0;6045;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Dell;Gaming;8;2.62;0;3807;0;141.211998082198;Intel Core i7;1000;0;Nvidia;Others/No OS/Linux
+HP;Notebook;8;2.04;0;3689;0;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+Dell;Notebook;4;2.18;0;2516;0;100.454669861136;Intel Core i3;1000;0;AMD;Windows
+Dell;Notebook;8;1.9;0;3832;0;141.211998082198;Intel Core i5;500;0;Intel;Windows
+Dell;2 in 1 Convertible;8;1.24;1;8251;0;276.053530085501;Intel Core i7;0;512;Intel;Windows
+Asus;Gaming;32;3.58;0;5242;1;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Dell;2 in 1 Convertible;16;1.22;1;6758;0;165.6321180513;Intel Core i7;0;256;Intel;Windows
+Lenovo;Ultrabook;8;1.13;0;8398;1;157.350512148735;Intel Core i7;0;0;Intel;Windows
+Lenovo;Notebook;8;1.95;0;8045;1;141.211998082198;Intel Core i5;0;512;Intel;Windows
+LG;Ultrabook;16;1.08;1;8603;1;141.211998082198;Intel Core i7;0;512;Intel;Windows
+HP;Netbook;8;1.26;0;6078;0;176.232573606583;Intel Core i7;0;512;Intel;Windows
+Acer;Notebook;4;2.2;0;1471;1;141.211998082198;Other Intel Processor;0;0;Intel;Others/No OS/Linux
+Lenovo;Notebook;8;2.6;0;3234;1;141.211998082198;Intel Core i5;0;128;Nvidia;Windows
+LG;Ultrabook;8;0.98;1;7783;1;157.350512148735;Intel Core i7;0;512;Intel;Windows
+Dell;Notebook;8;1.6;0;4939;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+HP;Ultrabook;8;1.09;1;12705;0;352.465147213167;Other Intel Processor;0;240;Intel;Windows
+Lenovo;Notebook;6;2.2;0;3234;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+HP;Notebook;8;2.04;0;4176;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Acer;Notebook;4;2.4;0;2045;0;141.211998082198;Intel Core i3;1000;0;Intel;Windows
+Lenovo;Notebook;4;1.44;0;3611;0;165.6321180513;Intel Core i5;0;128;Intel;Windows
+HP;Notebook;8;1.49;0;3935;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+MSI;Gaming;16;2.7;0;6553;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Dell;Gaming;16;2.6;0;5529;0;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+MSI;Gaming;8;2.2;0;4590;0;141.211998082198;Intel Core i5;0;128;Nvidia;Windows
+Dell;Notebook;4;2.18;0;2807;0;100.454669861136;Intel Core i5;1000;0;AMD;Windows
+HP;Ultrabook;8;1.84;0;5316;0;141.211998082198;Intel Core i7;0;256;AMD;Windows
+HP;Ultrabook;8;1.39;1;4709;0;276.053530085501;Intel Core i7;0;256;Intel;Windows
+Toshiba;Notebook;16;2.4;0;8094;1;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;2 in 1 Convertible;8;1.37;1;7480;1;165.6321180513;Intel Core i5;0;512;Intel;Windows
+Dell;Notebook;4;1.95;0;2991;0;100.454669861136;Intel Core i5;500;0;Intel;Windows
+Lenovo;Ultrabook;8;1.36;0;6762;1;176.232573606583;Intel Core i7;0;256;Intel;Windows
+HP;Notebook;8;2.31;0;4775;0;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Dell;Notebook;4;2.18;0;2902;0;100.454669861136;Intel Core i5;1000;0;Intel;Windows
+HP;Notebook;4;1.95;0;4709;0;111.935203559552;Intel Core i5;500;0;Intel;Windows
+Lenovo;Notebook;4;2.2;0;1266;0;100.454669861136;Other Intel Processor;1000;0;Intel;Windows
+HP;Ultrabook;4;1.26;0;6471;0;176.232573606583;Intel Core i5;500;0;Intel;Windows
+HP;Notebook;4;1.86;0;1184;0;100.454669861136;Other Intel Processor;1000;0;Intel;Others/No OS/Linux
+Lenovo;2 in 1 Convertible;16;1.3;1;7373;1;276.053530085501;Intel Core i7;0;1000;Intel;Windows
+Toshiba;Notebook;4;1.47;0;4529;1;157.350512148735;Intel Core i5;0;128;Intel;Windows
+HP;Netbook;8;1.26;0;6840;0;176.232573606583;Intel Core i5;0;256;Intel;Windows
+Dell;Notebook;4;2.18;0;2289;0;100.454669861136;Intel Core i3;1000;0;Intel;Windows
+MSI;Gaming;8;2.2;0;4914;0;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+Dell;Ultrabook;8;1.36;0;6717;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Dell;Gaming;16;4.36;0;11304;0;169.780899428308;Intel Core i7;0;512;Nvidia;Windows
+HP;Gaming;8;2.75;0;5734;1;127.335674571231;Intel Core i5;0;128;Nvidia;Windows
+Asus;Notebook;4;2.8;0;2172;0;106.113062142692;Other Intel Processor;1000;0;Nvidia;Windows
+Acer;Notebook;4;2.23;0;2537;0;100.454669861136;Intel Core i5;500;0;Intel;Windows
+Toshiba;Notebook;8;2.2;0;4586;0;100.454669861136;Intel Core i5;0;256;Intel;Windows
+Lenovo;2 in 1 Convertible;8;1.1;1;5324;1;194.947537175424;Other Intel Processor;0;256;Intel;Windows
+Lenovo;Gaming;16;2.5;0;4094;1;141.211998082198;AMD Processor;0;512;AMD;Windows
+Dell;Ultrabook;8;1.36;1;6034;0;176.232573606583;Intel Core i5;0;256;Intel;Windows
+Lenovo;Notebook;8;2.2;0;2807;0;141.211998082198;Intel Core i7;1000;0;Nvidia;Others/No OS/Linux
+Dell;Notebook;4;2.36;0;2701;0;106.113062142692;Intel Core i3;1000;0;AMD;Windows
+Acer;Notebook;4;1.68;0;1430;0;111.935203559552;Other Intel Processor;0;0;Intel;Others/No OS/Linux
+HP;Workstation;8;2;0;9217;1;141.211998082198;Intel Core i7;0;8;Nvidia;Windows
+Dell;Ultrabook;8;1.36;0;7275;0;157.350512148735;Intel Core i7;0;256;Intel;Windows
+Toshiba;Notebook;8;1.2;0;5984;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Asus;2 in 1 Convertible;8;1.2;0;4750;0;176.232573606583;Other Intel Processor;0;0;Intel;Others/No OS/Linux
+Lenovo;Ultrabook;8;1.7;0;6103;1;157.350512148735;Intel Core i7;0;256;Intel;Windows
+Dell;Gaming;16;4.36;0;12927;1;254.671349142462;Intel Core i7;0;512;Nvidia;Windows
+Dell;2 in 1 Convertible;8;1.24;1;7783;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+HP;2 in 1 Convertible;4;1.45;1;3176;0;135.094211192562;Other Intel Processor;0;256;Intel;Windows
+Dell;Ultrabook;8;1.3;0;5197;0;276.053530085501;Intel Core i7;0;256;Intel;Windows
+Acer;2 in 1 Convertible;4;1.25;1;1594;1;135.094211192562;Other Intel Processor;0;0;Intel;Others/No OS/Linux
+Toshiba;Notebook;8;1.2;0;6291;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Lenovo;Ultrabook;8;1.36;0;7213;1;176.232573606583;Intel Core i5;0;256;Intel;Windows
+Acer;Notebook;12;2.4;0;4135;0;141.211998082198;Intel Core i5;0;128;Nvidia;Windows
+Toshiba;Ultrabook;8;1.1;1;7336;0;176.232573606583;Intel Core i7;0;512;Intel;Windows
+HP;Notebook;8;2.04;0;3469;0;100.454669861136;Intel Core i5;1000;0;Nvidia;Windows
+Dell;Notebook;4;2.25;0;1908;0;100.454669861136;Intel Core i3;1000;0;AMD;Others/No OS/Linux
+Dell;Notebook;4;1.9;0;3381;0;100.454669861136;Intel Core i5;500;0;Intel;Windows
+HP;Notebook;4;2.04;0;2807;0;141.211998082198;Intel Core i3;500;0;Intel;Windows
+Dell;Gaming;32;4.42;0;12906;1;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;Notebook;6;2.4;0;2848;0;141.211998082198;Intel Core i5;0;256;Nvidia;Windows
+Dell;2 in 1 Convertible;16;1.22;1;7783;0;276.053530085501;Intel Core i7;0;512;Intel;Windows
+Dell;Ultrabook;8;1.5;1;8045;0;209.80068286498;Intel Core i7;0;256;Intel;Windows
+Dell;Gaming;32;4.42;0;11476;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Toshiba;Notebook;8;1.95;0;4836;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Asus;Gaming;16;2.73;0;8401;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+HP;Notebook;8;2.04;0;4012;1;141.211998082198;Intel Core i5;0;128;Nvidia;Windows
+Lenovo;Notebook;4;1.7;0;4107;0;111.935203559552;Intel Core i5;0;0;Intel;Windows
+Asus;2 in 1 Convertible;16;2.3;1;7373;0;282.423996164397;Intel Core i7;0;512;Nvidia;Windows
+HP;Notebook;6;2.04;0;2373;0;100.454669861136;Intel Core i7;1000;0;Intel;Windows
+Asus;Gaming;16;2.99;0;7168;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Dell;2 in 1 Convertible;12;2.19;1;5324;1;141.211998082198;Intel Core i7;0;512;Intel;Windows
+Toshiba;Notebook;4;1.2;0;4898;0;165.6321180513;Intel Core i5;0;128;Intel;Windows
+Lenovo;Notebook;6;2.2;0;2250;0;141.211998082198;AMD Processor;0;256;AMD;Windows
+Fujitsu;Notebook;4;2.3;0;2660;0;100.454669861136;Intel Core i5;0;256;Intel;Windows
+Toshiba;Notebook;4;1.75;0;3750;0;111.935203559552;Intel Core i5;500;0;Intel;Windows
+Dell;Notebook;4;2.25;0;2455;0;100.454669861136;Intel Core i5;500;0;AMD;Windows
+HP;Notebook;8;2.04;0;3303;0;141.211998082198;Intel Core i5;1000;0;Intel;Windows
+Lenovo;Gaming;8;2.5;0;4873;1;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+Dell;Notebook;8;2.36;0;3070;0;100.454669861136;Intel Core i7;1000;0;AMD;Windows
+Dell;Notebook;8;1.6;0;4586;0;157.350512148735;Intel Core i5;0;128;Intel;Windows
+HP;Netbook;8;0.97;0;7820;0;176.232573606583;Other Intel Processor;0;512;Intel;Windows
+HP;Notebook;4;2.1;0;2045;0;141.211998082198;Intel Core i3;0;128;AMD;Windows
+Lenovo;Notebook;4;1.9;0;1109;0;100.454669861136;Other Intel Processor;0;128;Intel;Others/No OS/Linux
+Lenovo;Notebook;8;2.3;0;5529;0;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Dell;2 in 1 Convertible;8;1.68;1;3644;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Asus;Notebook;8;1.4;0;4713;0;276.053530085501;Intel Core i5;0;256;Intel;Windows
+HP;Ultrabook;8;1.11;1;5529;1;165.6321180513;Intel Core i7;0;256;Intel;Windows
+Acer;Notebook;4;2.4;0;1557;0;100.454669861136;Other Intel Processor;500;0;Intel;Windows
+Asus;Gaming;16;2.5;0;7373;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+HP;Ultrabook;8;1.48;0;8562;0;157.350512148735;Intel Core i7;0;512;Intel;Windows
+Acer;Gaming;8;2.7;0;5164;1;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+HP;Notebook;8;1.34;0;4873;1;165.6321180513;Intel Core i5;0;256;Intel;Windows
+Dell;Notebook;4;2.18;0;2242;0;100.454669861136;Intel Core i3;0;128;Intel;Windows
+HP;Notebook;4;1.64;0;3193;0;111.935203559552;Intel Core i5;500;0;Intel;Windows
+Toshiba;Notebook;4;1.2;0;4898;0;165.6321180513;Intel Core i5;0;128;Intel;Windows
+HP;Notebook;4;1.48;0;4508;0;111.935203559552;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;4;1.95;0;4939;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+HP;Ultrabook;8;1.43;0;5939;0;157.350512148735;Intel Core i7;0;256;Intel;Windows
+HP;Notebook;8;1.64;0;4300;0;157.350512148735;Intel Core i5;0;256;Nvidia;Windows
+HP;Notebook;4;1.64;0;2803;0;111.935203559552;Intel Core i3;500;0;Intel;Windows
+Dell;Gaming;8;2.65;0;3889;0;141.211998082198;Intel Core i5;0;0;Nvidia;Windows
+HP;Ultrabook;4;1.26;0;6308;0;176.232573606583;Intel Core i5;500;0;Intel;Windows
+HP;Notebook;4;1.48;0;6517;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+HP;Ultrabook;8;1.54;0;7735;0;157.350512148735;Intel Core i7;0;256;Intel;Windows
+HP;Notebook;4;1.49;0;3279;0;117.826530062686;Intel Core i3;500;0;Intel;Windows
+Toshiba;Notebook;8;1.5;0;4959;0;117.826530062686;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;4;2.04;0;3156;0;100.454669861136;Intel Core i3;0;256;Intel;Windows
+Lenovo;Notebook;16;2.4;0;12164;1;254.671349142462;Intel Core i7;0;512;Nvidia;Windows
+Toshiba;Notebook;8;1.47;0;6107;1;157.350512148735;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;8;1.43;0;9135;0;157.350512148735;Intel Core i7;0;256;Intel;Windows
+Dell;2 in 1 Convertible;4;2.08;1;3262;1;141.211998082198;Intel Core i3;1000;0;Intel;Windows
+Toshiba;Ultrabook;8;1.2;0;6517;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;8;1.11;0;4709;1;165.6321180513;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;8;1.64;0;4858;0;157.350512148735;Intel Core i7;0;256;Nvidia;Windows
+Dell;Notebook;8;2.09;0;4289;0;141.211998082198;Intel Core i5;500;0;Intel;Windows
+HP;Ultrabook;4;1.26;0;6390;0;125.367427986698;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;4;2.31;0;4873;0;111.935203559552;Intel Core i5;500;0;Intel;Windows
+HP;Notebook;4;1.95;0;4344;0;111.935203559552;Intel Core i5;500;0;Intel;Windows
+Dell;Ultrabook;8;1.29;1;6656;0;276.053530085501;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;8;2.63;0;4426;0;127.335674571231;Intel Core i5;0;256;Nvidia;Windows
+HP;Notebook;4;1.64;0;3988;0;111.935203559552;Intel Core i5;0;256;Intel;Windows
+Acer;Notebook;6;2.1;0;1676;0;100.454669861136;AMD Processor;1000;0;AMD;Windows
+MSI;Gaming;8;2.7;0;4885;0;127.335674571231;Intel Core i7;0;128;Nvidia;Windows
+HP;Notebook;8;1.95;0;4898;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;8;1.84;0;5037;0;141.211998082198;Intel Core i7;0;256;Intel;Windows
+HP;Ultrabook;8;1.26;0;5529;0;176.232573606583;Intel Core i7;0;256;Intel;Windows
+HP;Notebook;4;2.04;0;3041;0;100.454669861136;Intel Core i5;500;0;Intel;Windows
+Toshiba;Ultrabook;8;1.47;0;7070;1;157.350512148735;Intel Core i7;0;256;Intel;Windows
+Dell;Notebook;8;2.09;0;4356;0;141.211998082198;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;8;1.64;0;4142;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Lenovo;2 in 1 Convertible;4;1.8;1;3471;1;141.211998082198;Intel Core i7;0;256;Intel;Windows
+Vero;Notebook;2;1.45;0;864;0;111.935203559552;Other Intel Processor;0;0;Intel;Windows
+Toshiba;Notebook;16;2.4;0;5840;1;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;Notebook;8;2.3;0;4302;0;141.211998082198;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;4;1.54;0;4098;0;157.350512148735;Intel Core i5;500;0;Intel;Windows
+HP;Notebook;8;1.84;0;8620;0;141.211998082198;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;8;1.43;0;6021;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+MSI;Gaming;16;3.78;0;6335;1;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;Gaming;16;4.6;0;9385;1;127.335674571231;Intel Core i7;0;128;Nvidia;Windows
+Asus;Netbook;4;1.2;0;1180;0;135.094211192562;Other Intel Processor;0;0;Intel;Others/No OS/Linux
+Lenovo;Notebook;16;1.1;0;10738;1;209.80068286498;Intel Core i7;0;256;Intel;Windows
+HP;Notebook;8;1.91;0;4012;1;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+Dell;2 in 1 Convertible;8;2.3;1;4484;1;141.211998082198;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;4;2.04;0;4012;0;100.454669861136;Intel Core i5;0;256;Intel;Windows
+Dell;Ultrabook;16;1.2;1;9238;0;276.053530085501;Intel Core i7;0;1000;Intel;Windows
+HP;Notebook;4;2.31;0;2890;0;100.454669861136;Intel Core i3;500;0;Intel;Windows
+HP;Notebook;4;1.96;0;2045;0;100.454669861136;Intel Core i5;500;0;Intel;Others/No OS/Linux
+Acer;Notebook;8;2.4;0;1840;0;100.454669861136;AMD Processor;1000;0;AMD;Windows
+Dell;2 in 1 Convertible;12;1.6;1;5324;1;165.6321180513;Intel Core i7;0;256;Intel;Windows
+MSI;Gaming;16;2.94;0;7455;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+HP;Notebook;8;2.04;0;4385;0;141.211998082198;Intel Core i7;0;256;Intel;Windows
+Asus;Gaming;16;4;0;4090;1;127.335674571231;Intel Core i7;1000;0;Nvidia;Others/No OS/Linux
+Dell;Notebook;4;2.25;0;2291;0;141.211998082198;Intel Core i5;1000;0;Intel;Windows
+Dell;Notebook;16;2.32;0;4057;0;141.211998082198;Intel Core i7;2000;0;AMD;Windows
+MSI;Gaming;16;1.8;0;7906;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Dell;Ultrabook;8;1.29;0;5976;0;165.6321180513;Intel Core i7;0;256;Intel;Windows
+Asus;Gaming;64;3.58;0;16291;1;127.335674571231;Intel Core i7;0;1000;Nvidia;Windows
+Dell;2 in 1 Convertible;8;1.62;1;3271;0;165.6321180513;Intel Core i7;0;256;Intel;Windows
+Dell;Gaming;16;3.21;0;5447;0;282.423996164397;Intel Core i7;0;256;Nvidia;Windows
+Apple;Ultrabook;8;0.92;0;5328;1;226.415547169358;Other Intel Processor;0;0;Intel;Mac
+Dell;Notebook;4;2.06;0;1975;0;100.454669861136;Intel Core i3;500;0;Intel;Windows
+HP;Notebook;4;2.31;0;4914;0;100.454669861136;Intel Core i5;500;0;Intel;Windows
+HP;Ultrabook;8;1.26;0;4914;0;176.232573606583;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;8;1.49;0;4467;0;165.6321180513;Intel Core i7;0;256;Intel;Windows
+Lenovo;Ultrabook;8;1.3;1;7023;1;176.232573606583;Intel Core i7;0;256;Intel;Windows
+Lenovo;Notebook;8;3;0;2701;0;106.113062142692;Intel Core i5;1000;0;AMD;Windows
+Lenovo;Notebook;4;2.3;0;4004;1;141.211998082198;Intel Core i5;1000;0;Nvidia;Windows
+MSI;Gaming;16;3.78;0;10242;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;Notebook;4;2.1;0;2213;0;100.454669861136;Intel Core i5;500;0;Intel;Windows
+HP;Notebook;4;2.31;0;3853;0;141.211998082198;Intel Core i5;500;0;Intel;Windows
+Lenovo;Ultrabook;8;0.99;1;5734;1;234.976764808778;Other Intel Processor;0;512;Intel;Windows
+Lenovo;Gaming;32;4.6;0;13279;1;127.335674571231;Intel Core i7;0;512;Nvidia;Windows
+Lenovo;2 in 1 Convertible;4;0.69;1;2649;1;224.173809078572;Other Intel Processor;0;0;Intel;Windows
+HP;Ultrabook;16;1.3;0;8398;1;331.264236102601;Intel Core i7;0;512;Intel;Windows
+Dell;Notebook;8;2.18;0;3074;0;141.211998082198;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;4;1.54;0;4225;0;157.350512148735;Intel Core i5;500;0;Intel;Windows
+HP;Workstation;8;1.9;0;6127;0;141.211998082198;Intel Core i7;0;256;AMD;Windows
+Lenovo;Notebook;8;1.7;0;4914;0;157.350512148735;Intel Core i5;0;180;Intel;Windows
+HP;Notebook;4;1.29;0;2521;0;276.053530085501;Other Intel Processor;0;0;Intel;Others/No OS/Linux
+Acer;Notebook;4;2.4;0;1586;0;100.454669861136;AMD Processor;500;0;AMD;Windows
+Dell;Notebook;4;2.2;0;1613;0;100.454669861136;Other Intel Processor;500;0;Intel;Others/No OS/Linux
+HP;Notebook;4;1.86;0;1418;0;100.454669861136;Intel Core i3;1000;0;Intel;Others/No OS/Linux
+Asus;Gaming;8;2.7;0;6553;1;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Dell;Ultrabook;4;1.4;0;3354;1;165.6321180513;Intel Core i5;0;256;AMD;Windows
+HP;Netbook;4;2.4;0;6553;0;125.367427986698;Intel Core i5;0;128;Intel;Windows
+Acer;Notebook;8;2.4;0;3275;0;141.211998082198;Intel Core i5;0;256;Nvidia;Windows
+Dell;Notebook;8;2.36;0;2618;0;141.211998082198;Intel Core i5;1000;0;AMD;Windows
+MSI;Gaming;8;2.6;0;6553;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+HP;Notebook;4;1.96;0;2049;0;100.454669861136;Other Intel Processor;1000;0;Intel;Windows
+Asus;Gaming;16;4.3;0;9422;1;127.335674571231;Intel Core i7;0;128;Nvidia;Windows
+Dell;Ultrabook;4;1.5;0;4652;0;125.367427986698;Intel Core i3;500;0;Intel;Windows
+Dell;Ultrabook;4;1.5;0;4783;0;125.367427986698;Intel Core i3;0;128;Intel;Windows
+Acer;Notebook;4;2.2;0;857;0;100.454669861136;Other Intel Processor;0;16;Intel;Others/No OS/Linux
+HP;Workstation;8;3;0;11881;1;127.335674571231;Intel Core i7;1000;0;AMD;Windows
+Lenovo;Gaming;16;2.4;0;4914;0;141.211998082198;Intel Core i7;0;512;Nvidia;Windows
+Dell;Ultrabook;8;1.5;0;5792;0;125.367427986698;Intel Core i5;0;256;Intel;Windows
+MSI;Gaming;8;2.9;0;6194;0;127.335674571231;Intel Core i7;0;128;Nvidia;Windows
+Lenovo;2 in 1 Convertible;4;2.1;1;3553;1;141.211998082198;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;4;2.1;0;1631;0;141.211998082198;AMD Processor;1000;0;AMD;Windows
+Asus;Gaming;16;2.59;0;5488;1;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+HP;Notebook;8;1.16;1;6963;0;276.053530085501;Other Intel Processor;0;256;Intel;Windows
+Dell;Notebook;4;2.24;0;3152;0;100.454669861136;Intel Core i5;500;0;AMD;Windows
+Lenovo;Notebook;4;2.1;0;1758;0;100.454669861136;Intel Core i3;0;128;Intel;Windows
+HP;Ultrabook;8;1.16;0;8070;0;165.6321180513;Intel Core i7;0;512;Intel;Windows
+Lenovo;2 in 1 Convertible;4;0.69;1;2250;1;224.173809078572;Other Intel Processor;0;0;Intel;Others/No OS/Linux
+Dell;Ultrabook;8;1.23;0;5652;0;165.6321180513;Intel Core i7;0;256;Intel;Windows
+Lenovo;Gaming;16;4.6;0;11271;1;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Razer;Ultrabook;8;1.25;1;4217;0;352.465147213167;Intel Core i7;0;256;Intel;Windows
+Toshiba;Ultrabook;16;1.05;0;9123;0;165.6321180513;Intel Core i7;0;512;Intel;Windows
+Asus;Gaming;8;3.52;0;5379;0;127.335674571231;Intel Core i7;0;128;Nvidia;Windows
+Vero;Notebook;4;1.35;0;803;0;165.6321180513;Other Intel Processor;0;0;Intel;Windows
+HP;Notebook;8;1.16;0;6926;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;8;1.43;0;6201;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Dell;Notebook;4;2.09;0;2146;0;100.454669861136;Intel Core i5;500;0;Intel;Others/No OS/Linux
+Asus;Notebook;4;2;0;1783;0;100.454669861136;Intel Core i3;1000;0;Intel;Windows
+Lenovo;2 in 1 Convertible;8;1.8;1;6840;1;157.350512148735;Intel Core i7;0;256;Intel;Windows
+Lenovo;2 in 1 Convertible;4;0.69;1;1963;1;224.173809078572;Other Intel Processor;0;0;Intel;Windows
+HP;Ultrabook;8;1.26;0;7767;0;125.367427986698;Intel Core i5;0;256;Intel;Windows
+Lenovo;Gaming;8;2.4;0;4053;1;141.211998082198;Intel Core i5;0;128;Nvidia;Others/No OS/Linux
+HP;Gaming;8;3.35;0;4627;1;127.335674571231;Intel Core i5;0;128;Nvidia;Windows
+HP;Notebook;8;2.04;0;2578;0;100.454669861136;Intel Core i7;2000;0;Intel;Windows
+Lenovo;2 in 1 Convertible;8;1.8;1;8403;1;157.350512148735;Intel Core i7;0;512;Nvidia;Windows
+Asus;Notebook;4;1.5;0;1139;0;111.935203559552;Other Intel Processor;0;0;Intel;Windows
+HP;Ultrabook;8;1.84;0;3082;0;141.211998082198;Intel Core i7;0;256;Intel;Windows
+Acer;Notebook;4;2.23;0;2525;0;141.211998082198;Intel Core i5;1000;0;Nvidia;Windows
+Lenovo;Notebook;16;2.5;0;4504;0;141.211998082198;Intel Core i7;0;0;AMD;Windows
+HP;Workstation;8;3;0;16186;1;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Dell;Notebook;8;2.5;0;3213;0;100.454669861136;Intel Core i5;1000;0;AMD;Windows
+MSI;Gaming;16;3.78;0;9832;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+HP;Ultrabook;8;1.88;0;8901;0;141.211998082198;Intel Core i7;0;256;Intel;Windows
+Lenovo;2 in 1 Convertible;16;2.8;1;10000;1;209.80068286498;Intel Core i7;0;512;Intel;Windows
+MSI;Gaming;8;2.4;0;4684;0;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+HP;2 in 1 Convertible;8;1.48;1;6676;0;165.6321180513;Intel Core i5;0;256;Intel;Windows
+HP;Workstation;8;2.59;0;9135;1;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+HP;2 in 1 Convertible;8;1.48;1;7373;0;220.8428240684;Intel Core i7;0;256;Intel;Windows
+HP;Workstation;8;2;0;7783;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+HP;Ultrabook;8;1.26;0;9414;0;176.232573606583;Intel Core i7;0;256;Intel;Windows
+Dell;Notebook;8;2.18;0;4139;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+HP;Notebook;8;1.88;0;6471;0;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Lenovo;2 in 1 Convertible;8;1.27;1;9586;1;209.80068286498;Intel Core i7;0;256;Intel;Windows
+Lenovo;Notebook;4;1.9;0;1389;0;100.454669861136;Intel Core i3;1000;0;Intel;Others/No OS/Linux
+HP;Notebook;4;1.86;0;1217;0;100.454669861136;AMD Processor;500;0;AMD;Windows
+Lenovo;Notebook;8;2.32;0;2455;0;141.211998082198;Intel Core i5;1000;0;AMD;Others/No OS/Linux
+Dell;Gaming;8;2.62;0;4914;0;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+Dell;Notebook;8;2.04;1;9224;1;282.423996164397;Intel Core i5;0;256;Nvidia;Windows
+HP;Notebook;4;1.91;0;1963;0;141.211998082198;AMD Processor;0;256;AMD;Windows
+MSI;Gaming;16;2.7;0;6118;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;Ultrabook;12;1.4;0;9422;0;157.350512148735;Intel Core i7;0;512;Intel;Windows
+Lenovo;Notebook;8;2.5;0;3232;0;141.211998082198;Intel Core i5;0;0;AMD;Windows
+HP;2 in 1 Convertible;8;1.48;1;8365;0;220.8428240684;Intel Core i7;0;512;Intel;Windows
+Lenovo;Ultrabook;8;1.7;0;6144;0;157.350512148735;Intel Core i7;0;256;Intel;Windows
+MSI;Gaming;16;1.7;0;7250;0;157.350512148735;Intel Core i7;0;256;Nvidia;Windows
+HP;Gaming;8;2.62;0;3685;1;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+Lenovo;Notebook;8;2.2;0;1881;0;100.454669861136;Intel Core i3;1000;0;Intel;Windows
+HP;Notebook;4;2.1;0;1955;0;100.454669861136;Intel Core i5;500;0;Intel;Others/No OS/Linux
+Dell;Gaming;8;2.62;0;6139;0;282.423996164397;Intel Core i7;0;128;Nvidia;Windows
+Lenovo;Notebook;8;1.95;0;5697;1;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Lenovo;Notebook;4;2.2;0;1918;0;141.211998082198;Intel Core i3;1000;0;Nvidia;Windows
+HP;Notebook;2;1.44;0;1021;0;111.935203559552;Other Intel Processor;0;0;Intel;Windows
+MSI;Gaming;8;2.2;0;3439;1;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+HP;Notebook;8;1.96;0;2783;0;141.211998082198;Intel Core i7;0;256;Intel;Windows
+HP;Notebook;16;2.1;0;4750;0;141.211998082198;Intel Core i7;0;512;Intel;Windows
+Asus;Notebook;4;2.2;0;1512;0;100.454669861136;Other Intel Processor;500;0;Intel;Windows
+Lenovo;Notebook;4;2.1;0;1631;0;100.454669861136;Intel Core i5;500;0;Intel;Others/No OS/Linux
+Lenovo;Notebook;8;2.2;0;2906;0;141.211998082198;Intel Core i7;1000;0;Nvidia;Others/No OS/Linux
+Asus;Notebook;4;2;0;3152;0;157.350512148735;Intel Core i3;0;256;Intel;Windows
+Lenovo;Notebook;4;2.32;0;3381;0;141.211998082198;Intel Core i7;0;0;Intel;Windows
+Lenovo;Gaming;16;3.31;0;5348;1;141.211998082198;Intel Core i7;0;512;Nvidia;Windows
+MSI;Gaming;16;1.91;0;8826;0;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+HP;Notebook;4;2.07;0;2664;0;100.454669861136;Intel Core i3;500;0;Intel;Windows
+Lenovo;2 in 1 Convertible;8;1.36;1;6709;1;209.80068286498;Intel Core i5;0;256;Intel;Windows
+Lenovo;Ultrabook;6;1.54;0;3406;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Dell;Notebook;8;1.98;0;3668;0;141.211998082198;Intel Core i7;0;256;Nvidia;Others/No OS/Linux
+Acer;Notebook;4;2.1;0;1365;0;100.454669861136;Other Intel Processor;500;0;Intel;Windows
+HP;Notebook;6;2.18;0;3275;1;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+Asus;Gaming;8;2.591;0;3726;1;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Dell;2 in 1 Convertible;16;2.09;1;4832;0;141.211998082198;Intel Core i7;0;512;Intel;Windows
+Acer;Notebook;4;2.23;0;2832;0;141.211998082198;Intel Core i5;0;256;Nvidia;Windows
+Dell;Ultrabook;8;1.23;1;4504;0;276.053530085501;Intel Core i5;0;256;Intel;Others/No OS/Linux
+Acer;Gaming;16;4.2;0;10652;1;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;Gaming;8;2.4;0;3357;1;141.211998082198;Intel Core i5;1000;0;Nvidia;Windows
+HP;Notebook;4;1.86;0;1988;0;100.454669861136;Intel Core i5;500;0;Intel;Windows
+Apple;Ultrabook;8;0.92;0;4767;1;226.415547169358;Other Intel Processor;0;0;Intel;Mac
+Dell;2 in 1 Convertible;8;1.6;1;4914;1;165.6321180513;Intel Core i5;0;256;Intel;Windows
+HP;Notebook;12;2.21;0;5439;1;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+Lenovo;Notebook;4;1.9;0;1508;0;100.454669861136;Intel Core i3;1000;0;AMD;Others/No OS/Linux
+Asus;Gaming;16;4.3;0;8812;1;127.335674571231;Intel Core i7;0;512;Nvidia;Windows
+Acer;Notebook;4;2.1;0;1115;0;100.454669861136;Other Intel Processor;1000;0;Intel;Others/No OS/Linux
+MSI;Gaming;16;2.43;0;8397;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Dell;Notebook;4;2.3;0;2045;0;100.454669861136;Intel Core i3;0;128;AMD;Windows
+Lenovo;Notebook;8;2.2;0;2578;0;100.454669861136;Intel Core i7;500;0;Nvidia;Others/No OS/Linux
+Dell;2 in 1 Convertible;16;2;1;5267;0;141.211998082198;Intel Core i7;0;512;Intel;Windows
+Dell;Ultrabook;16;1.2;1;10984;0;276.053530085501;Intel Core i7;0;512;Intel;Windows
+Asus;Gaming;8;2.2;0;4791;0;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+Dell;Notebook;8;2.36;0;3644;0;141.211998082198;Intel Core i5;0;256;AMD;Windows
+HP;Notebook;8;1.91;0;2373;0;100.454669861136;Intel Core i5;0;256;Intel;Windows
+Lenovo;Notebook;4;2.2;0;1225;0;100.454669861136;AMD Processor;500;0;AMD;Windows
+Acer;Notebook;8;3.3;0;2578;0;106.113062142692;Intel Core i3;1000;0;Nvidia;Windows
+Asus;Gaming;16;2.2;0;10037;0;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Apple;Ultrabook;8;0.92;0;5242;1;226.415547169358;Other Intel Processor;0;0;Intel;Mac
+Asus;Notebook;16;2.2;0;7168;0;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+MSI;Gaming;16;2.43;0;7988;1;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Dell;2 in 1 Convertible;8;2.191;1;4094;1;141.211998082198;Intel Core i5;0;256;Intel;Windows
+Asus;Gaming;16;2.9;0;7988;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Acer;Netbook;2;1.3;0;713;0;135.094211192562;Other Intel Processor;0;32;Intel;Others/No OS/Linux
+Acer;Notebook;4;3.3;0;2451;0;106.113062142692;Intel Core i3;1000;0;Nvidia;Windows
+Lenovo;Notebook;8;2.8;0;2209;0;106.113062142692;Intel Core i5;1000;0;Intel;Others/No OS/Linux
+Lenovo;Gaming;8;2.6;0;5213;1;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+Acer;2 in 1 Convertible;8;1.2;1;4709;1;157.350512148735;Intel Core i7;0;256;Intel;Windows
+Lenovo;Notebook;8;2.3;0;6267;1;141.211998082198;Intel Core i7;0;256;Intel;Windows
+MSI;Gaming;8;2.2;0;6050;0;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+HP;Notebook;6;2.1;0;2168;0;141.211998082198;AMD Processor;1000;0;AMD;Windows
+Dell;Ultrabook;8;1.26;1;7022;0;176.232573606583;Intel Core i5;0;256;Intel;Windows
+Dell;2 in 1 Convertible;4;2.08;1;2086;0;146.860478005486;Intel Core i3;500;0;Intel;Windows
+Asus;Notebook;4;2.65;0;1266;0;100.454669861136;Other Intel Processor;1000;0;Intel;Windows
+Dell;Ultrabook;8;1.29;1;6053;0;276.053530085501;Intel Core i7;0;256;Intel;Windows
+Dell;Notebook;4;2.18;0;2139;0;100.454669861136;Intel Core i5;1000;0;Intel;Others/No OS/Linux
+Lenovo;Gaming;16;2.6;1;4217;1;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+MSI;Gaming;8;2.2;0;4709;0;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+Lenovo;Netbook;16;1.3;1;6762;1;176.232573606583;Intel Core i7;0;512;Intel;Windows
+Razer;Gaming;16;1.95;0;14341;0;157.350512148735;Intel Core i7;0;1000;Nvidia;Windows
+Dell;Notebook;8;2.3;1;1922;0;100.454669861136;Intel Core i3;1000;0;Intel;Windows
+MSI;Gaming;16;2.7;0;6549;0;127.335674571231;Intel Core i7;0;256;Nvidia;Windows
+Apple;Ultrabook;4;1.08;0;3930;0;135.094211192562;Intel Core i5;0;0;Intel;Mac
+HP;Notebook;4;2.1;0;1959;0;141.211998082198;Intel Core i3;1000;0;Intel;Windows
+HP;Ultrabook;8;1.54;0;9009;0;209.80068286498;Intel Core i7;0;256;Intel;Windows
+Dell;Notebook;4;2.24;0;3021;0;100.454669861136;Intel Core i5;500;0;Intel;Windows
+MSI;Gaming;8;2.3;0;4791;0;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+Lenovo;Notebook;16;1.4;0;6144;1;165.6321180513;Intel Core i7;0;512;Intel;Windows
+Lenovo;Notebook;6;2.2;0;2449;0;141.211998082198;AMD Processor;0;256;AMD;Windows
+Asus;Ultrabook;8;1.45;0;5246;0;165.6321180513;Intel Core i7;0;256;Intel;Windows
+Acer;Notebook;4;2.4;0;1483;0;100.454669861136;Intel Core i3;500;0;Intel;Others/No OS/Linux
+Dell;2 in 1 Convertible;16;2.77;1;7373;0;127.335674571231;Intel Core i7;0;512;Nvidia;Windows
+HP;Notebook;4;1.54;0;4508;0;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Asus;Gaming;16;2.5;0;6558;1;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Dell;Notebook;4;1.6;0;3586;0;111.935203559552;Intel Core i5;500;0;Intel;Windows
+Asus;Gaming;16;2.34;0;9529;1;141.211998082198;Intel Core i7;0;256;Nvidia;Windows
+Lenovo;Notebook;8;2.3;0;2348;1;141.211998082198;Intel Core i5;0;256;Intel;Others/No OS/Linux
+Dell;2 in 1 Convertible;8;1.24;1;7431;0;276.053530085501;Intel Core i5;0;256;Intel;Windows
+Dell;Notebook;4;2.2;0;1328;0;100.454669861136;Other Intel Processor;500;0;Intel;Others/No OS/Linux
+HP;Notebook;4;1.86;0;1635;0;100.454669861136;AMD Processor;500;0;AMD;Windows
+Lenovo;Notebook;6;2.4;0;2332;0;141.211998082198;Intel Core i3;0;128;Nvidia;Windows
+Lenovo;Notebook;8;1.9;0;4394;1;157.350512148735;Intel Core i5;0;256;Intel;Windows
+Dell;Notebook;4;2.2;0;1820;0;100.454669861136;Other Intel Processor;500;0;Intel;Windows
+Asus;Notebook;4;2;0;1389;0;100.454669861136;Other Intel Processor;1000;0;Intel;Windows
+Asus;Gaming;16;4;0;7787;1;127.335674571231;Intel Core i7;0;128;Nvidia;Windows
+Dell;Notebook;4;2.29;0;2008;0;100.454669861136;Intel Core i3;500;0;Intel;Windows
+Lenovo;Notebook;8;2.32;0;3668;0;141.211998082198;Intel Core i7;0;0;AMD;Windows
+MSI;Gaming;8;2.4;0;5037;0;141.211998082198;Intel Core i7;0;128;Nvidia;Windows
+Lenovo;2 in 1 Convertible;4;1.8;1;3414;0;157.350512148735;Intel Core i5;0;128;Intel;Windows
+Asus;Ultrabook;8;1.2;0;2988;1;165.6321180513;Other Intel Processor;0;512;Intel;Windows
+Dell;Notebook;6;2.3;0;1881;0;100.454669861136;Intel Core i3;1000;0;Intel;Windows
+Acer;Notebook;4;2.4;0;1184;0;100.454669861136;Other Intel Processor;500;0;Intel;Others/No OS/Linux
+Dell;Notebook;2;2.2;0;1553;0;100.454669861136;Other Intel Processor;500;0;Intel;Windows
+Lenovo;Notebook;8;2.6;0;3685;1;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+HP;Notebook;6;2.04;0;2254;0;141.211998082198;AMD Processor;0;0;AMD;Windows
+Dell;Notebook;8;2.3;0;3303;0;100.454669861136;Intel Core i7;1000;0;AMD;Others/No OS/Linux
+HP;Netbook;2;1.17;0;857;0;135.094211192562;Other Intel Processor;0;0;Intel;Windows
+Asus;Notebook;4;2.2;0;2952;0;100.454669861136;Intel Core i7;500;0;Nvidia;Windows
+Lenovo;2 in 1 Convertible;4;1.8;1;2615;1;157.350512148735;Intel Core i7;0;128;Intel;Windows
+Lenovo;2 in 1 Convertible;16;1.3;1;6144;1;276.053530085501;Intel Core i7;0;512;Intel;Windows
+Lenovo;Notebook;2;1.5;0;939;0;111.935203559552;Other Intel Processor;0;0;Intel;Windows
+HP;Notebook;6;2.19;0;3131;0;100.454669861136;Intel Core i7;1000;0;AMD;Windows
+Asus;Notebook;4;2.2;0;1512;0;100.454669861136;Other Intel Processor;500;0;Intel;Windows
+Asus;Ultrabook;8;1.2;0;2988;1;165.6321180513;Other Intel Processor;0;512;Intel;Windows
+Dell;Notebook;6;2.3;0;1881;0;100.454669861136;Intel Core i3;1000;0;Intel;Windows
+Acer;Notebook;4;2.4;0;1184;0;100.454669861136;Other Intel Processor;500;0;Intel;Others/No OS/Linux
+Dell;Notebook;2;2.2;0;1553;0;100.454669861136;Other Intel Processor;500;0;Intel;Windows
+Lenovo;Notebook;8;2.6;0;3685;1;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+HP;Notebook;6;2.04;0;2254;0;141.211998082198;AMD Processor;0;0;AMD;Windows
+Dell;Notebook;8;2.3;0;3303;0;100.454669861136;Intel Core i7;1000;0;AMD;Others/No OS/Linux
+HP;Netbook;2;1.17;0;857;0;135.094211192562;Other Intel Processor;0;0;Intel;Windows
+Asus;Notebook;4;2.2;0;2952;0;100.454669861136;Intel Core i7;500;0;Nvidia;Windows
+Lenovo;2 in 1 Convertible;4;1.8;1;2615;1;157.350512148735;Intel Core i7;0;128;Intel;Windows
+Lenovo;2 in 1 Convertible;16;1.3;1;6144;1;276.053530085501;Intel Core i7;0;512;Intel;Windows
+Lenovo;Notebook;2;1.5;0;939;0;111.935203559552;Other Intel Processor;0;0;Intel;Windows
+HP;Notebook;6;2.19;0;3131;0;100.454669861136;Intel Core i7;1000;0;AMD;Windows
+Asus;Notebook;4;2.2;0;1512;0;100.454669861136;Other Intel Processor;500;0;Intel;Windows
+Asus;Ultrabook;8;1.2;0;2988;1;165.6321180513;Other Intel Processor;0;512;Intel;Windows
+Dell;Notebook;6;2.3;0;1881;0;100.454669861136;Intel Core i3;1000;0;Intel;Windows
+Acer;Notebook;4;2.4;0;1184;0;100.454669861136;Other Intel Processor;500;0;Intel;Others/No OS/Linux
+Dell;Notebook;2;2.2;0;1553;0;100.454669861136;Other Intel Processor;500;0;Intel;Windows
+Lenovo;Notebook;8;2.6;0;3685;1;141.211998082198;Intel Core i7;1000;0;Nvidia;Windows
+HP;Notebook;6;2.04;0;2254;0;141.211998082198;AMD Processor;0;0;AMD;Windows
+Dell;Notebook;8;2.3;0;3303;0;100.454669861136;Intel Core i7;1000;0;AMD;Others/No OS/Linux
+HP;Netbook;2;1.17;0;857;0;135.094211192562;Other Intel Processor;0;0;Intel;Windows
+Asus;Notebook;4;2.2;0;2952;0;100.454669861136;Intel Core i7;500;0;Nvidia;Windows
+Lenovo;2 in 1 Convertible;4;1.8;1;2615;1;157.350512148735;Intel Core i7;0;128;Intel;Windows
+Lenovo;2 in 1 Convertible;16;1.3;1;6144;1;276.053530085501;Intel Core i7;0;512;Intel;Windows
+Lenovo;Notebook;2;1.5;0;939;0;111.935203559552;Other Intel Processor;0;0;Intel;Windows
+HP;Notebook;6;2.19;0;3131;0;100.454669861136;Intel Core i7;1000;0;AMD;Windows
+Asus;Notebook;4;2.2;0;1512;0;100.454669861136;Other Intel Processor;500;0;Intel;Windows
